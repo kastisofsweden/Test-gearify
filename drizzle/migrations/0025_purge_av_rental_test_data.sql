@@ -1,0 +1,13 @@
+ALTER TABLE public.unit_movements DISABLE TRIGGER USER;
+DELETE FROM public.unit_movements WHERE stock_item_id IN (SELECT id FROM public.stock_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661');
+ALTER TABLE public.unit_movements ENABLE TRIGGER USER;
+DELETE FROM public.unit_reports WHERE stock_item_id IN (SELECT id FROM public.stock_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661');
+DELETE FROM public.stock_item_assignments WHERE stock_item_id IN (SELECT id FROM public.stock_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661');
+DELETE FROM public.serial_codes WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661' OR stock_item_id IN (SELECT id FROM public.stock_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661');
+DELETE FROM public.stock_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661';
+DELETE FROM public.price_rules WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661';
+DELETE FROM public.offer_items WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661';
+DELETE FROM public.serial_codes WHERE equipment_id='b25d248a-cd72-4afd-a5b0-2aac9d797661';
+DELETE FROM public.equipment WHERE id='b25d248a-cd72-4afd-a5b0-2aac9d797661';
+DELETE FROM public.serial_counters WHERE scope IN ('units:acf5c620-a4a6-47a7-8a1b-7f0ff94c3d9f','item:b25d248a-cd72-4afd-a5b0-2aac9d797661');
+DELETE FROM public.organizations WHERE id='acf5c620-a4a6-47a7-8a1b-7f0ff94c3d9f';
