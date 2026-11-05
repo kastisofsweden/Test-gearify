@@ -1,0 +1,335 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789567228583,
+      "tag": "0000_sync_equipment_with_avrental_catalog",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789567514683,
+      "tag": "0001_create_site_page_overrides",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789568288495,
+      "tag": "0002_create_rental_booking_engine",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789568318422,
+      "tag": "0003_availability_includes_kit_components",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789568397796,
+      "tag": "0004_booking_computes_shipping_server_side",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1789568960892,
+      "tag": "0005_shipping_cost_for_optional_args",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1789569080354,
+      "tag": "0006_grant_data_api_access_existing_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1789569166752,
+      "tag": "0007_grant_execute_has_role",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1789622433944,
+      "tag": "0008_pricing_engine_and_hourly_availability",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1789623003902,
+      "tag": "0009_barcode_labels_and_autogeneration",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1793701122116,
+      "tag": "0010_unit_register_qr_movements_reports",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1793701217936,
+      "tag": "0011_unit_movements_strict_append_only",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1793701236216,
+      "tag": "0012_stock_items_trigger_filled_defaults",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1793701752915,
+      "tag": "0013_admin_email_allowlist",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1793727241895,
+      "tag": "0014_organizations",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1793727857970,
+      "tag": "0015_org_item_id_series",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1793728164462,
+      "tag": "0016_equipment_category_required",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1793728588538,
+      "tag": "0017_item_id_format_article_and_copy",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1793728868251,
+      "tag": "0018_equipment_label_print_count",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1793738690535,
+      "tag": "0019_serial_code_format",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1793739072765,
+      "tag": "0020_serial_code_insert_default",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1793783088175,
+      "tag": "0021_per_item_unit_serial_codes",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1793786678079,
+      "tag": "0022_unit_org_number_serials",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1793786985128,
+      "tag": "0023_unit_serial_repair_item_order",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "7",
+      "when": 1793787023324,
+      "tag": "0024_unit_serial_uniqueness",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "7",
+      "when": 1793790342999,
+      "tag": "0025_purge_av_rental_test_data",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "7",
+      "when": 1793801141457,
+      "tag": "0026_delete_units_and_items",
+      "breakpoints": true
+    },
+    {
+      "idx": 27,
+      "version": "7",
+      "when": 1793822211599,
+      "tag": "0027_security_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 28,
+      "version": "7",
+      "when": 1793822263576,
+      "tag": "0028_item_images_allowed_types",
+      "breakpoints": true
+    },
+    {
+      "idx": 29,
+      "version": "7",
+      "when": 1793823419940,
+      "tag": "0029_product_serial_code_aliases",
+      "breakpoints": true
+    },
+    {
+      "idx": 30,
+      "version": "7",
+      "when": 1793860316958,
+      "tag": "0030_create_booking_ip_limit_always",
+      "breakpoints": true
+    },
+    {
+      "idx": 31,
+      "version": "7",
+      "when": 1793860320893,
+      "tag": "0031_allowlist_requires_email_confirmation_flow",
+      "breakpoints": true
+    },
+    {
+      "idx": 32,
+      "version": "7",
+      "when": 1793861819635,
+      "tag": "0032_equipment_anon_column_grants",
+      "breakpoints": true
+    },
+    {
+      "idx": 33,
+      "version": "7",
+      "when": 1793861826973,
+      "tag": "0033_allowlist_role_sync_triggers",
+      "breakpoints": true
+    },
+    {
+      "idx": 34,
+      "version": "7",
+      "when": 1793861853053,
+      "tag": "0034_submit_lead_fingerprint",
+      "breakpoints": true
+    },
+    {
+      "idx": 35,
+      "version": "7",
+      "when": 1793861888933,
+      "tag": "0035_order_id_on_movements_and_unit_move",
+      "breakpoints": true
+    },
+    {
+      "idx": 36,
+      "version": "7",
+      "when": 1793862201554,
+      "tag": "0036_unit_report_role_label_print_tester",
+      "breakpoints": true
+    },
+    {
+      "idx": 37,
+      "version": "7",
+      "when": 1793862210635,
+      "tag": "0037_barcode_collision_triggers",
+      "breakpoints": true
+    },
+    {
+      "idx": 38,
+      "version": "7",
+      "when": 1793862214625,
+      "tag": "0038_unit_number_equals_serial_code",
+      "breakpoints": true
+    },
+    {
+      "idx": 39,
+      "version": "7",
+      "when": 1793862227655,
+      "tag": "0039_confirm_order_drafts",
+      "breakpoints": true
+    },
+    {
+      "idx": 40,
+      "version": "7",
+      "when": 1793863315292,
+      "tag": "0040_0040_partner_role_enum",
+      "breakpoints": true
+    },
+    {
+      "idx": 41,
+      "version": "7",
+      "when": 1793863429433,
+      "tag": "0041_0041_warehouses_staff_companies_calculations",
+      "breakpoints": true
+    },
+    {
+      "idx": 42,
+      "version": "7",
+      "when": 1793863921835,
+      "tag": "0042_0042_convert_calculation_customer",
+      "breakpoints": true
+    },
+    {
+      "idx": 43,
+      "version": "7",
+      "when": 1793882926562,
+      "tag": "0043_0043_org_label_branding_qr_settings_report_forwarding",
+      "breakpoints": true
+    },
+    {
+      "idx": 44,
+      "version": "7",
+      "when": 1793884532441,
+      "tag": "0044_renumber_75_led_units",
+      "breakpoints": true
+    },
+    {
+      "idx": 45,
+      "version": "7",
+      "when": 1793898826465,
+      "tag": "0045_commission_and_org_invoice",
+      "breakpoints": true
+    },
+    {
+      "idx": 46,
+      "version": "7",
+      "when": 1793899290044,
+      "tag": "0046_ownership_shares_invoice_rows",
+      "breakpoints": true
+    }
+  ]
+}

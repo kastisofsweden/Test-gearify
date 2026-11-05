@@ -1,0 +1,5025 @@
+{
+ "pages": [
+  {
+   "type": "home",
+   "slug": "home",
+   "path": {
+    "en": "/en",
+    "sv": "/"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hero-conference-screen.jpg",
+   "price_from": 3063,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Why Renthub",
+     "h1": "Event-grade AV, dry hired across Sweden.",
+     "intro": "We rent professional displays, stands and mounts to agencies, production companies and in-house event teams. Every item is tested before it leaves the warehouse, delivered on schedule, and invoiced on your terms.",
+     "meta_title": "AV Dry Hire in Sweden - Renthub.se",
+     "meta_description": "Reliable and tested AV rentals for events across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Built for people who do this for a living.",
+       "heading": "Why Choose Us",
+       "body": "Dry hire means you get the kit and nothing you did not ask for. No day-rate technician you do not need, no bundled labour, no surprises on the invoice.",
+       "items": []
+      },
+      {
+       "eyebrow": "Tested before every job",
+       "heading": "Quality Assurance",
+       "body": "Every display is powered on, checked for dead pixels and packed with the cables and adapters it actually needs.",
+       "items": []
+      },
+      {
+       "eyebrow": "Delivered on your schedule",
+       "heading": "Convenience",
+       "body": "Nationwide delivery and collection timed around your build and derig, not around our opening hours.",
+       "items": []
+      },
+      {
+       "eyebrow": "Live pricing and availability",
+       "heading": "Transparency",
+       "body": "Pick your dates and see what is free and what it costs, before you pick up the phone.",
+       "items": []
+      },
+      {
+       "eyebrow": "Business invoicing",
+       "heading": "Simplified Billing",
+       "body": "Set up as a business account and book against a PO. Built for agencies and production companies, not tourists.",
+       "items": []
+      },
+      {
+       "eyebrow": "TV bundles",
+       "heading": "Economical Choices",
+       "body": "One screen, everything it needs.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Full HD display on a floor stand with a fitted black skirt. Ideal for breakout rooms and exhibition stands.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": "Starting from 3 063 kr"
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "The workhorse size for conference breakouts and mid-size stands. Readable from the back of most rooms.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": "Starting from 3 530 kr"
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Our largest single-screen package. Built for main stages, keynote rooms and high-traffic exhibition stands.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": "Starting from 4 810 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Individual items",
+       "heading": "Targeted Rentals",
+       "body": "Already have screens but short a mount, a stand or a skirt? Take the single item and leave the rest.",
+       "items": [
+        {
+         "title": "65″ LED TV",
+         "body": "Professional LED display, screen only. Pair with your own mount or one of ours.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/en/rent/led-tv-65",
+         "price": "Starting from 3 194 kr"
+        },
+        {
+         "title": "Vesa Mount",
+         "body": "Standard VESA bracket for mounting displays to stands, trussing or wall plates.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/vesa-mount.png",
+         "link": "/en/rent/vesa-mount",
+         "price": "Starting from 266 kr"
+        },
+        {
+         "title": "Speaker Stand",
+         "body": "Height-adjustable stand for speakers or compact displays. Stable on carpet and hard floor.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-768x480.jpg",
+         "link": "/en/rent/speaker-stand",
+         "price": "Starting from 50 kr"
+        },
+        {
+         "title": "Speaker Stand Skirt",
+         "body": "Fitted black skirt that hides cabling and hardware for a clean front-of-house look.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-skirt-768x768.jpg",
+         "link": "/en/rent/speaker-stand-skirt",
+         "price": "Starting from 20 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "How it works",
+       "heading": "Simple Process",
+       "body": "Three steps, no phone tag.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Därför Renthub",
+     "h1": "Proffs-AV att hyra – i hela Sverige.",
+     "intro": "Vi hyr ut professionella skärmar, stativ och fästen till byråer, produktionsbolag och interna eventteam. Allt testas innan det lämnar lagret, levereras på utsatt tid och faktureras på dina villkor.",
+     "meta_title": "AV-uthyrning i hela Sverige - Renthub.se",
+     "meta_description": "Hyr professionell AV-utrustning i hela Sverige. Testade skärmar, stativ och fästen med leverans till din lokal.",
+     "included": [],
+     "specs": [],
+     "cta": {},
+     "sections": [
+      {
+       "eyebrow": "Byggt för dig som gör det här varje vecka.",
+       "heading": "Fördelar med dry hire",
+       "body": "Dry hire betyder att du får utrustningen och inget du inte bett om. Ingen tekniker på dagsarvode du inte behöver, inget påtvingat arbete, inga överraskningar på fakturan.",
+       "items": []
+      },
+      {
+       "eyebrow": "Testad före varje jobb",
+       "heading": "Kvalitetssäkring",
+       "body": "Varje skärm startas, kontrolleras för döda pixlar och packas med de kablar och adaptrar som faktiskt behövs.",
+       "items": []
+      },
+      {
+       "eyebrow": "Levereras enligt ditt schema",
+       "heading": "Flexibla tider",
+       "body": "Leverans och hämtning i hela Sverige, tidsatt efter din bygg- och rivningsplan – inte efter våra öppettider.",
+       "items": []
+      },
+      {
+       "eyebrow": "Priser och tillgänglighet",
+       "heading": "Tydliga kostnader",
+       "body": "Välj dina datum och se vad som är ledigt och vad det kostar, innan du lyfter telefonen.",
+       "items": []
+      },
+      {
+       "eyebrow": "Fakturering för företag",
+       "heading": "Anpassat för företag",
+       "body": "Lägg upp ett företagskonto och boka mot inköpsorder. Byggt för byråer och produktionsbolag.",
+       "items": []
+      }
+     ]
+    }
+   }
+  },
+  {
+   "type": "catalog",
+   "slug": "catalog",
+   "path": {
+    "en": "/en/rent",
+    "sv": "/hyra"
+   },
+   "image": "",
+   "price_from": 20,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Equipment",
+     "h1": "AV equipment for hire in Sweden",
+     "intro": "Professional displays, stands and mounts, hired dry to agencies, production companies and in-house event teams. Set your dates to see live availability and pricing.",
+     "meta_title": "Hire AV equipment in Sweden - Renthub.se",
+     "meta_description": "Hire professional displays",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Stands & Mounts",
+       "heading": "Guitar Stands",
+       "body": "Rent folding A-frame guitar stands for stages, green rooms and rehearsal spaces. Padded arms, tool-free setup, delivered across Sweden.",
+       "items": [
+        {
+         "title": "Guitar Stands",
+         "body": "From 75 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/guitar-stand-folding-a-frame.jpg",
+         "link": "/en/rent/guitar-stands",
+         "price": "75 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Displays",
+       "heading": "55″ LED TV",
+       "body": "Hire a 55-inch LED display for conferences, trade shows and corporate events in Sweden. Screen only — pair it with your own mount, a floor stand, or book the complete kit.",
+       "items": [
+        {
+         "title": "55″ LED TV",
+         "body": "From 2 727 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/en/rent/led-tv-55",
+         "price": "2727 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Displays",
+       "heading": "65″ LED TV",
+       "body": "Hire a 65-inch LED display for conferences, trade shows and corporate events in Sweden. The most-booked size — screen only, ready for your own mount or one of ours.",
+       "items": [
+        {
+         "title": "65″ LED TV",
+         "body": "From 3 194 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/en/rent/led-tv-65",
+         "price": "3194 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Displays",
+       "heading": "75″ LED TV",
+       "body": "Hire a 75-inch LED display for keynote rooms, main stages and large exhibition stands in Sweden. Screen only — pair it with your own mount or one of ours.",
+       "items": [
+        {
+         "title": "75″ LED TV",
+         "body": "From 4 474 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/en/rent/led-tv-75",
+         "price": "4474 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Stands & Mounts",
+       "heading": "Vesa Mount",
+       "body": "Rent a standard VESA mounting bracket for fixing displays to stands, truss or wall plates. Available across Sweden for event hire.",
+       "items": [
+        {
+         "title": "Vesa Mount",
+         "body": "From 266 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/vesa-mount.png",
+         "link": "/en/rent/vesa-mount",
+         "price": "266 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Stands & Mounts",
+       "heading": "Speaker Stand",
+       "body": "Height-adjustable speaker stand for hire. Stable on carpet and hard floor, suitable for speakers or compact displays at events.",
+       "items": [
+        {
+         "title": "Speaker Stand",
+         "body": "From 50 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-768x480.jpg",
+         "link": "/en/rent/speaker-stand",
+         "price": "50 kr"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Accessories",
+       "heading": "Speaker Stand Skirt",
+       "body": "Fitted black skirt for speaker stands. Hides cabling and hardware for a clean front-of-house finish. Available for event hire in Sweden.",
+       "items": [
+        {
+         "title": "Speaker Stand Skirt",
+         "body": "From 20 kr per week",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-skirt-768x768.jpg",
+         "link": "/en/rent/speaker-stand-skirt",
+         "price": "20 kr"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Utrustning",
+     "h1": "AV-utrustning för uthyrning i hela Sverige",
+     "intro": "Professionella skärmar, stativ och fästen, dry hire till byråer, produktionsbolag och interna eventteam. Ange dina datum för att se tillgänglighet och priser i realtid.",
+     "meta_title": "Hyr AV-utrustning – hela sortimentet - Renthub.se",
+     "meta_description": "Hyr professionella skärmar",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "",
+       "items": [
+        {
+         "title": "Gitarrstativ",
+         "body": "Hyr hopfällbara gitarrstativ i A-ram för scener, artistloger och replokaler. Klädda armar, verktygsfri montering, levereras i hela Sverige.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/guitar-stand-folding-a-frame.jpg",
+         "link": "/hyra/guitar-stands",
+         "price": "Från 75 kr per vecka"
+        },
+        {
+         "title": "55″ LED-TV",
+         "body": "Hyr en 55-tums LED-skärm för konferenser, mässor och företagsevent i Sverige. Endast skärm – kombinera med ditt eget fäste, ett golvstativ eller boka hela paketet.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/hyra/led-tv-55",
+         "price": "Från 2 727 kr per vecka"
+        },
+        {
+         "title": "65″ LED-TV",
+         "body": "Hyr en 65-tums LED-skärm för konferenser, mässor och företagsevent i Sverige. Den mest bokade storleken – endast skärm, redo för ditt eget fäste eller ett av våra.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/hyra/led-tv-65",
+         "price": "Från 3 194 kr per vecka"
+        },
+        {
+         "title": "75″ LED-TV",
+         "body": "Hyr en 75-tums LED-skärm för keynote-salar, huvudscener och stora mässmontrar i Sverige. Endast skärm – kombinera med ditt eget fäste eller ett av våra.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-768x614.png",
+         "link": "/hyra/led-tv-75",
+         "price": "Från 4 474 kr per vecka"
+        },
+        {
+         "title": "VESA-fäste",
+         "body": "Hyr ett standardiserat VESA-fäste för montering av skärmar på stativ, truss eller väggplattor. Finns för uthyrning i hela Sverige.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/vesa-mount.png",
+         "link": "/hyra/vesa-mount",
+         "price": "Från 266 kr per vecka"
+        },
+        {
+         "title": "Högtalarstativ",
+         "body": "Höjdjusterbart högtalarstativ för uthyrning. Stabilt på både matta och hårt golv, passar högtalare eller kompakta skärmar på event.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-768x480.jpg",
+         "link": "/hyra/speaker-stand",
+         "price": "Från 50 kr per vecka"
+        },
+        {
+         "title": "Stativkjol",
+         "body": "Måttanpassad svart stativkjol till högtalarstativ. Döljer kablage och hårdvara för ett rent intryck framifrån. Uthyres i hela Sverige.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-skirt-768x768.jpg",
+         "link": "/hyra/speaker-stand-skirt",
+         "price": "Från 20 kr per vecka"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "kits",
+   "slug": "kits",
+   "path": {
+    "en": "/en/kit",
+    "sv": "/paket"
+   },
+   "image": "",
+   "price_from": 3063,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Kits & bundles",
+     "h1": "Complete Screen Kits",
+     "intro": "Complete screen kits, hired as one line. Screen, floor stand, and fitted skirt together. The fastest way to put a professional display in a breakout room, on an exhibition stand, or in front of a keynote audience.",
+     "meta_title": "Complete screen kits for hire - Renthub.se",
+     "meta_description": "Hire professional screen kits for conferences and events, including TV stands and fitted skirts.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Available Kits",
+       "heading": "Hire Your Screen Kits",
+       "body": "Hire a 55-inch display complete with floor stand and fitted skirt. One line on your order, everything the screen needs. Delivered across Sweden.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Complete kit 55″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": "From 3 063 kr per week"
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Complete kit 65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": "From 3 530 kr per week"
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Complete kit 75″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": "From 4 810 kr per week"
+        },
+        {
+         "title": "Simple Confidence Monitor — 55″",
+         "body": "Complete kit Simple Confidence Monitor — 55″",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand-768x429.jpg",
+         "link": "/en/kit/confidence-monitor-basic",
+         "price": "From 2 802 kr per week"
+        },
+        {
+         "title": "Simple Confidence Monitor — 65″",
+         "body": "Complete kit Simple Confidence Monitor — 65″",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand-768x429.jpg",
+         "link": "/en/kit/simple-confidence-monitor-65",
+         "price": "From 3 269 kr per week"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Kits & bundles",
+     "h1": "Kompletta skärmpaket – en enda orderrad",
+     "intro": "Snabbaste sättet att få upp en professionell skärm i ett grupprum, i en mässmonter eller framför en keynote-publik.",
+     "meta_title": "Kompletta skärmpaket att hyra - Renthub.se",
+     "meta_description": "Hyr kompletta skärmpaket med skärmar, stativ och måttanpassade kjolar för din nästa event.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "55″ TV med stativ och kjol",
+       "body": "Hyr en 55-tums skärm komplett med golvstativ och måttanpassad stativkjol. En orderrad, allt skärmen behöver. Levereras i hela Sverige.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "Komplett paket 55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": "Från 3 063 kr per vecka"
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "65″ TV med stativ och kjol",
+       "body": "Hyr en 65-tums skärm med golvstativ och måttanpassad stativkjol. Den storlek vi skickar mest av till konferensrum och mässmontrar i Sverige.",
+       "items": [
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "Komplett paket 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": "Från 3 530 kr per vecka"
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "75″ TV med stativ och kjol",
+       "body": "Hyr en 75-tums skärm med golvstativ och måttanpassad stativkjol. Vårt största enskärmspaket, byggt för keynote-salar och huvudscener.",
+       "items": [
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "Komplett paket 75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": "Från 4 810 kr per vecka"
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Confidence monitor 55″ på lågt stativ",
+       "body": "Hyr en 55-tums confidence monitor på ett lågt hopfällbart stativ – skärmen som vetter mot scenen så att talaren ser sina bilder och sin talartid. Levereras i hela Sverige.",
+       "items": [
+        {
+         "title": "Confidence monitor 55″ på lågt stativ",
+         "body": "Komplett paket Confidence monitor 55″ på lågt stativ",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand-768x429.jpg",
+         "link": "/paket/confidence-monitor-basic",
+         "price": "Från 2 802 kr per vecka"
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Confidence monitor 65″ på lågt stativ",
+       "body": "Hyr en 65-tums confidence monitor på ett lågt hopfällbart stativ – skärmen som vetter mot scenen så att talaren ser sina bilder och sin talartid. Levereras i hela Sverige.",
+       "items": [
+        {
+         "title": "Confidence monitor 65″ på lågt stativ",
+         "body": "Komplett paket Confidence monitor 65″ på lågt stativ",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand-768x429.jpg",
+         "link": "/paket/simple-confidence-monitor-65",
+         "price": "Från 3 269 kr per vecka"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "venues",
+   "slug": "venues",
+   "path": {
+    "en": "/en/venues",
+    "sv": "/lokaler"
+   },
+   "image": "",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Venues",
+     "h1": "Venues we deliver to",
+     "intro": "Screens, stands and skirts delivered to the door, set down where you need them and collected after breakdown. If your venue is not listed yet, it does not mean we cannot get there — ask.",
+     "meta_title": "Venues Archive - Renthub.se",
+     "meta_description": "Explore the venues we deliver to for your events, covering various types from congress centres to hotels.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Venues",
+       "heading": "Available Venues",
+       "body": "Venue details below.",
+       "items": [
+        {
+         "title": "Stockholm Waterfront Congress Centre",
+         "body": "Congress & Exhibition Centre",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/en/av-hire/stockholm/stockholm-waterfront",
+         "price": ""
+        },
+        {
+         "title": "Münchenbryggeriet",
+         "body": "Concert & Event Space",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-product-launches-768x577.jpg",
+         "link": "/en/av-hire/stockholm/munchenbryggeriet",
+         "price": ""
+        },
+        {
+         "title": "Aula Magna, Stockholm University",
+         "body": "University & Academic",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-agms-768x512.jpg",
+         "link": "/en/av-hire/stockholm/aula-magna",
+         "price": ""
+        },
+        {
+         "title": "Sheraton Stockholm Hotel",
+         "body": "Hotel & Meeting Rooms",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-hotel-meeting-room-768x1152.jpg",
+         "link": "/en/av-hire/stockholm/sheraton-stockholm",
+         "price": ""
+        },
+        {
+         "title": "Stockholmsmässan",
+         "body": "Congress & Exhibition Centre",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/en/av-hire/stockholm/stockholmsmassan",
+         "price": ""
+        },
+        {
+         "title": "Kistamässan",
+         "body": "Congress & Exhibition Centre",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/en/av-hire/stockholm/kistamassan",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Venues",
+     "h1": "Lokaler vi levererar till",
+     "intro": "Skärmar, stativ och kjolar levereras till dörren, ställs där du behöver dem och hämtas efter rivning. Att din lokal inte finns med i listan betyder inte att vi inte kan komma dit – fråga oss.",
+     "meta_title": "Venues arkiv - Renthub.se",
+     "meta_description": "Explore the venues we deliver to for your events, covering various types from congress centres to hotels.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "",
+       "items": [
+        {
+         "title": "Kistamässan",
+         "body": "Kongress- och mässanläggning",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/kistamassan",
+         "price": ""
+        },
+        {
+         "title": "Stockholmsmässan",
+         "body": "Kongress- och mässanläggning",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/stockholmsmassan",
+         "price": ""
+        },
+        {
+         "title": "Sheraton Stockholm Hotel",
+         "body": "Hotell och konferensrum",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-hotel-meeting-room-768x1152.jpg",
+         "link": "/av-uthyrning/stockholm/sheraton-stockholm",
+         "price": ""
+        },
+        {
+         "title": "Aula Magna, Stockholms universitet",
+         "body": "Universitet och högskola",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-agms-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/aula-magna",
+         "price": ""
+        },
+        {
+         "title": "Münchenbryggeriet",
+         "body": "Konsert- och evenemangslokal",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-product-launches-768x577.jpg",
+         "link": "/av-uthyrning/stockholm/munchenbryggeriet",
+         "price": ""
+        },
+        {
+         "title": "Stockholm Waterfront Congress Centre",
+         "body": "Kongress- och mässanläggning",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/stockholm-waterfront",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "city",
+   "slug": "stockholm",
+   "path": {
+    "en": "/en/av-hire/stockholm",
+    "sv": "/av-uthyrning/stockholm"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-stockholm.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Book your AV equipment today!",
+     "h1": "AV hire in Stockholm",
+     "intro": "Stands at Stockholmsmässan, a keynote at a hotel on Blasieholmen, a town hall in an office on Kungsholmen — we deliver tested screens and stands anywhere in Stockholm, timed to your load-in, from our warehouse in Örebro.",
+     "meta_title": "AV Hire in Stockholm - Renthub.se",
+     "meta_description": "Reliable AV hire service in Stockholm with timely delivery and setup options.",
+     "included": [
+      "Screen",
+      "Floor Stand",
+      "Fitted Skirt"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Where we deliver",
+       "body": "We deliver anywhere in Sweden. Tell us the venue and we will handle access, timings and on-site setup.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "What kind of event are you running?",
+       "body": "Conferences, Trade shows, Corporate events, Product launches, Roadshows, AGMs",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "What we usually send",
+       "body": "Complete screen kits, one line each. Screen, floor stand and fitted skirt together. Nothing arrives missing the part that holds it up, whichever room in the city it is going to.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Breakout rooms, registration and wayfinding.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "The workhorse size for most rooms.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Exhibition stands and keynote stages.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Vi levererar i hela Sverige.",
+     "h1": "AV-uthyrning i Stockholm",
+     "intro": "Montrar på Stockholmsmässan, en keynote på ett hotell på Blasieholmen, ett stormöte i en kontorslokal på Kungsholmen – vi levererar testade skärmar och stativ till hela Stockholm, i tid till din inlastning, från vårt lager i Örebro.",
+     "meta_title": "Stockholm-arkiv - Renthub.se",
+     "meta_description": "Vi erbjuder uthyrning av AV-utrustning i Stockholm med leverans direkt till olika eventlokaler.",
+     "included": [
+      "Screen",
+      "Floor Stand",
+      "Fitted Skirt"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Leveransinformation",
+       "body": "Vi tidsätter leveransen efter lokalens insläppstider, inte efter en budbils tidsfönster, och hämtar på samma sätt när du har rivit.",
+       "items": []
+      },
+      {
+       "eyebrow": "Lokaler vi levererar till i Stockholm",
+       "heading": "Direkta leveranser",
+       "body": "Direkt till lokalerna som Kistamässan och Stockholmsmässan.",
+       "items": [
+        {
+         "title": "Kongress- och mässanläggning",
+         "body": "Kistamässan",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/kistamassan",
+         "price": ""
+        },
+        {
+         "title": "Kongress- och mässanläggning",
+         "body": "Stockholmsmässan",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/stockholmsmassan",
+         "price": ""
+        },
+        {
+         "title": "Hotell och konferensrum",
+         "body": "Sheraton Stockholm Hotel",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-hotel-meeting-room-768x1152.jpg",
+         "link": "/av-uthyrning/stockholm/sheraton-stockholm",
+         "price": ""
+        },
+        {
+         "title": "Universitet och högskola",
+         "body": "Aula Magna, Stockholms universitet",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-agms-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/aula-magna",
+         "price": ""
+        },
+        {
+         "title": "Konsert- och evenemangslokal",
+         "body": "Münchenbryggeriet",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-product-launches-768x577.jpg",
+         "link": "/av-uthyrning/stockholm/munchenbryggeriet",
+         "price": ""
+        },
+        {
+         "title": "Kongress- och mässanläggning",
+         "body": "Stockholm Waterfront Congress Centre",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-768x512.jpg",
+         "link": "/av-uthyrning/stockholm/stockholm-waterfront",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Vad vi brukar skicka",
+       "body": "Vi erbjuder följande typer av eventuthyrningar.",
+       "items": [
+        {
+         "title": "Konferenser",
+         "body": "Konferenser - Grupprum, registrering och den stora plenarsalen.",
+         "image": "",
+         "link": "/konferens-av-uthyrning",
+         "price": ""
+        },
+        {
+         "title": "Mässor",
+         "body": "Mässor - Ö-montrar.",
+         "image": "",
+         "link": "/massa-av-uthyrning",
+         "price": ""
+        },
+        {
+         "title": "Företagsevent",
+         "body": "Företagsevent - Stormöten, all-hands och kick-offer.",
+         "image": "",
+         "link": "/foretagsevent-av-uthyrning",
+         "price": ""
+        },
+        {
+         "title": "Produktlanseringar",
+         "body": "Produktlanseringar - Skärm som läses från bakre raden.",
+         "image": "",
+         "link": "/produktlansering-av-uthyrning",
+         "price": ""
+        },
+        {
+         "title": "Roadshows",
+         "body": "Roadshows - Samma utrustning vid varje stopp på turnén.",
+         "image": "",
+         "link": "/roadshow-av-uthyrning",
+         "price": ""
+        },
+        {
+         "title": "Årsstämmor",
+         "body": "Årsstämmor - Rösträkningen, läsbar från varje plats.",
+         "image": "",
+         "link": "/arsstamma-av-uthyrning",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "product",
+   "slug": "led-tv-75",
+   "path": {
+    "en": "/en/rent/led-tv-75",
+    "sv": "/hyra/led-tv-75"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-1024x819.png",
+   "price_from": 4474,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Displays",
+     "h1": "75″ LED TV",
+     "intro": "Hire a 75-inch LED display for keynote rooms, main stages and large exhibition stands in Sweden. Screen only — pair it with your own mount or one of ours.",
+     "meta_title": "75″ LED TV Hire in Sweden - Renthub.se",
+     "meta_description": "Hire a professional 75-inch LED display for your next event in Sweden.",
+     "included": [
+      "75″ LED TV",
+      "TV remote",
+      "HDMI cord (1.5m)"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "75″"
+      },
+      {
+       "label": "Supplied as",
+       "value": "Screen only"
+      },
+      {
+       "label": "From",
+       "value": "4 474 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Recommended products",
+       "heading": "",
+       "body": "Tested before dispatch · Nationwide delivery · Business invoicing",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "A professional 75-inch LED display for temporary use — keynote rooms, main stages, large exhibition stands and showrooms. The size to reach for when the back row still has to read the slides. This is the screen on its own. If you are not bringing your own mounting, add a VESA bracket for truss or wall plates, or a floor stand where there is nothing to fix to. The kits below pair the display with a stand and a fitted skirt on a single line of your order.",
+       "items": [
+        {
+         "title": "Speaker Stand",
+         "body": "Speaker Stand",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/cca2c6f2-126a-4082-b976-98e12263508d/large_F3speaker-stand_NU_WEB_large.jpg",
+         "link": "",
+         "price": "50,00kr"
+        },
+        {
+         "title": "Vesa Mount",
+         "body": "Vesa Mount",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/01d5580b-5128-44ce-b814-11aa44e4f63c/large_upload.jpg",
+         "link": "",
+         "price": "266,00kr"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Skärmar",
+     "h1": "75″ LED-TV",
+     "intro": "Hyr en 75-tums LED-skärm för keynote-salar, huvudscener och stora mässmontrar i Sverige. Endast skärm – kombinera med ditt eget fäste eller ett av våra.",
+     "meta_title": "Hyra 75 tums LED-TV i Sverige - Renthub.se",
+     "meta_description": "Hyr en 75-tums LED-skärm för keynote-salar, huvudscener och stora mässmontrar i Sverige.",
+     "included": [
+      "75″ LED-TV",
+      "TV-fjärrkontroll",
+      "HDMI-kabel (1,5 m)"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "75″"
+      },
+      {
+       "label": "Levereras som",
+       "value": "Endast skärm"
+      },
+      {
+       "label": "Från",
+       "value": "4 474 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Om produkten",
+       "heading": "",
+       "body": "En professionell 75-tums LED-skärm för tillfällig användning – keynote-salar, huvudscener, stora mässmontrar och showrooms. Storleken att välja när även bakre raden ska kunna läsa bilderna.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Rekommenderade produkter",
+       "body": "Inget saknas när du kommer på plats. En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "55″ TV med stativ",
+         "body": "Komplett paket **55″ TV med stativ och kjol**",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ",
+         "body": "Populärast **65″ TV med stativ och kjol**",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ",
+         "body": "Störst **75″ TV med stativ och kjol**",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "displays"
+  },
+  {
+   "type": "product",
+   "slug": "led-tv-65",
+   "path": {
+    "en": "/en/rent/led-tv-65",
+    "sv": "/hyra/led-tv-65"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-1024x819.png",
+   "price_from": 3194,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Displays",
+     "h1": "65″ LED TV",
+     "intro": "A professional 65-inch LED display for temporary use — conference breakouts, exhibition stands, training rooms and showrooms. The workhorse size and the one booked most often: readable from the back of most rooms without dominating them.",
+     "meta_title": "65″ LED TV Hire in Sweden - Renthub.se",
+     "meta_description": "Hire a 65-inch LED display for conferences, trade shows and corporate events in Sweden.",
+     "included": [
+      "65″ LED TV",
+      "TV remote",
+      "HDMI cord (1.5m)"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "65″"
+      },
+      {
+       "label": "Supplied as",
+       "value": "Screen only"
+      },
+      {
+       "label": "From",
+       "value": "3 194 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Make it a kit",
+       "heading": "Nothing missing when you get on site",
+       "body": "A screen on its own still needs something to stand on. Our kits pair the display with a floor stand and a fitted skirt, on one line of your order — fewer things to check, and nothing forgotten in the van.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Complete kit",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Most booked",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Largest",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Skärmar",
+     "h1": "65″ LED-TV",
+     "intro": "Hyr en 65-tums LED-skärm för konferenser, mässor och företagsevent i Sverige. Den mest bokade storleken – endast skärm, redo för ditt eget fäste eller ett av våra.",
+     "meta_title": "Hyra 65 tums LED-TV i Sverige - Renthub.se",
+     "meta_description": "Hyra en 65-tums LED-skärm för event och konferenser, endast skärm, redo för eget fäste.",
+     "included": [
+      "65″ LED-TV",
+      "TV-fjärrkontroll",
+      "HDMI-kabel (1,5 m)"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "65″"
+      },
+      {
+       "label": "Levereras som",
+       "value": "Endast skärm"
+      },
+      {
+       "label": "Från",
+       "value": "3 194 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Inget saknas när du kommer på plats",
+       "body": "Det här ingår: En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "Komplett paket 55″ TV med stativ och kjol\nGrupprum och mässmontrar.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "Populärast 65″ TV med stativ och kjol\nLäsbar från bakre raden i de flesta lokaler.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "Störst 75″ TV med stativ och kjol\nHuvudscener och keynote-salar.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "displays"
+  },
+  {
+   "type": "product",
+   "slug": "led-tv-55",
+   "path": {
+    "en": "/en/rent/led-tv-55",
+    "sv": "/hyra/led-tv-55"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-1024x819.png",
+   "price_from": 2727,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Displays",
+     "h1": "55″ LED TV",
+     "intro": "Hire a 55-inch LED display for conferences, trade shows and corporate events in Sweden. Screen only — pair it with your own mount, a floor stand, or book the complete kit.",
+     "meta_title": "55″ LED TV Hire in Sweden - Renthub.se",
+     "meta_description": "Hire a 55-inch LED display for events in Sweden.",
+     "included": [
+      "55″ LED TV",
+      "TV remote",
+      "HDMI cord (1.5m)"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "55″"
+      },
+      {
+       "label": "Supplied as",
+       "value": "Screen only"
+      },
+      {
+       "label": "From",
+       "value": "2 727 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "About this item",
+       "heading": "Quick Overview",
+       "body": "A professional 55-inch LED display for temporary use — breakout rooms, exhibition stands, showrooms and internal events. The size that fits a room where a larger screen would crowd it rather than help it.",
+       "items": []
+      },
+      {
+       "eyebrow": "Nothing missing when you get on site",
+       "heading": "Ensure You Have Everything",
+       "body": "A screen on its own still needs something to stand on. Our kits pair the display with a floor stand and a fitted skirt, on one line of your order — fewer things to check, and nothing forgotten in the van.",
+       "items": [
+        {
+         "title": "Complete kit 55″ TV with Stand & Skirt",
+         "body": "Complete kit 55″ TV with Stand & Skirt. Breakout rooms and exhibition stands.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Most booked 65″ TV with Stand & Skirt. Readable from the back of most rooms.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Largest 75″ TV with Stand & Skirt. Main stages and keynote rooms.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Skärmar",
+     "h1": "55″ LED-TV",
+     "intro": "En professionell 55-tums LED-skärm för tillfällig användning – grupprum, mässmontrar, showrooms och interna event.",
+     "meta_title": "Hyra 55 tums LED-TV i Sverige - Renthub.se",
+     "meta_description": "Hyr en 55-tums LED-skärm för konferenser, mässor och företagsevent i Sverige. Endast skärm.",
+     "included": [
+      "55″ LED-TV",
+      "TV-fjärrkontroll",
+      "HDMI-kabel (1,5 m)"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "55″"
+      },
+      {
+       "label": "Levereras som",
+       "value": "Endast skärm"
+      },
+      {
+       "label": "Från",
+       "value": "2 727 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Inget saknas när du kommer på plats",
+       "body": "En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "Se paketet →",
+         "body": "Komplett paket 55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Se paketet →",
+         "body": "Populärast 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Se paketet →",
+         "body": "Störst 75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "displays"
+  },
+  {
+   "type": "product",
+   "slug": "speaker-stand",
+   "path": {
+    "en": "/en/rent/speaker-stand",
+    "sv": "/hyra/speaker-stand"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-1024x640.jpg",
+   "price_from": 50,
+   "price_unit": "kr / vecka",
+   "order": 3,
+   "content": {
+    "en": {
+     "eyebrow": "Stands & Mounts",
+     "h1": "Speaker Stand",
+     "intro": "A height-adjustable floor stand for a speaker or a compact display, suitable for many rooms where there is nothing to fix to — exhibition stands, foyers, breakout rooms, and pop-up spaces.",
+     "meta_title": "Speaker Stand Hire in Sweden - Renthub.se",
+     "meta_description": "Rent a height-adjustable speaker stand suitable for various setups at events.",
+     "included": [
+      "Height adjustable stand",
+      "Stability on carpet and hard floor"
+     ],
+     "specs": [
+      {
+       "label": "Supplied as",
+       "value": "Stand only"
+      },
+      {
+       "label": "Suitable for",
+       "value": "Speakers or compact displays"
+      },
+      {
+       "label": "From",
+       "value": "50 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Kits available",
+       "heading": "Make it a kit",
+       "body": "Nothing missing when you get on site. A screen on its own still needs something to stand on. Our kits pair the display with a floor stand and a fitted skirt, on one line of your order — fewer things to check, and nothing forgotten in the van.",
+       "items": [
+        {
+         "title": "Breakout rooms and exhibition stands.",
+         "body": "Complete kit 55″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Readable from the back of most rooms.",
+         "body": "Most booked 65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Main stages and keynote rooms.",
+         "body": "Largest 75″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Stativ och fästen",
+     "h1": "Högtalarstativ",
+     "intro": "Höjdjusterbart högtalarstativ för uthyrning. Stabilt på både matta och hårt golv, passar högtalare eller kompakta skärmar på event.",
+     "meta_title": "Hyra högtalarstativ i Sverige - Renthub.se",
+     "meta_description": "Höjdjusterbart högtalarstativ för uthyrning, perfekt för event.",
+     "included": [
+      "Stativkjolar och monteringsmaterial är egna artiklar."
+     ],
+     "specs": [
+      {
+       "label": "Levereras som",
+       "value": "Endast stativ"
+      },
+      {
+       "label": "Passar för",
+       "value": "Högtalare eller kompakta skärmar"
+      },
+      {
+       "label": "Från",
+       "value": "50 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Inget saknas när du kommer på plats.",
+       "heading": "Paketlösningar",
+       "body": "En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "Grupprum och mässmontrar.",
+         "body": "Komplett paket 55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Läsbar från bakre raden i de flesta lokaler.",
+         "body": "Populärast 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Huvudscener och keynote-salar.",
+         "body": "Störst 75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "stands-mounts"
+  },
+  {
+   "type": "product",
+   "slug": "vesa-mount",
+   "path": {
+    "en": "/en/rent/vesa-mount",
+    "sv": "/hyra/vesa-mount"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/vesa-mount.png",
+   "price_from": 266,
+   "price_unit": "kr / vecka",
+   "order": 4,
+   "content": {
+    "en": {
+     "eyebrow": "Stands & Mounts",
+     "h1": "Vesa Mount",
+     "intro": "Rent a standard VESA mounting bracket for fixing displays to stands, truss or wall plates. Available across Sweden for event hire.",
+     "meta_title": "VESA Mount Hire in Sweden - Renthub.se",
+     "meta_description": "Rent a VESA mounting bracket for displays. Available across Sweden for event hire.",
+     "included": [
+      "Screens, stands and clamps are separate items."
+     ],
+     "specs": [
+      {
+       "label": "Supplied as",
+       "value": "Bracket only"
+      },
+      {
+       "label": "Fits",
+       "value": "Displays with a standard VESA pattern"
+      },
+      {
+       "label": "Price",
+       "value": "From 266 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "About this item",
+       "heading": "",
+       "body": "A standard VESA mounting bracket for fixing a display to a floor stand, a truss clamp or a wall plate. It is the small part that decides whether a screen sits where you need it or leans against a wall.",
+       "items": []
+      },
+      {
+       "eyebrow": "Nothing missing when you get on site",
+       "heading": "",
+       "body": "A screen on its own still needs something to stand on. Our kits pair the display with a floor stand and a fitted skirt, on one line of your order — fewer things to check, and nothing forgotten in the van.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Stativ och fästen",
+     "h1": "VESA-fäste",
+     "intro": "Hyr ett standardiserat VESA-fäste för montering av skärmar på stativ, truss eller väggplattor. Finns för uthyrning i hela Sverige.",
+     "meta_title": "Hyra VESA-fäste i Sverige - Renthub.se",
+     "meta_description": "Hyr ett standardiserat VESA-fäste för montering av skärmar.",
+     "included": [
+      "Skärmar, stativ och klämmor är egna artiklar."
+     ],
+     "specs": [
+      {
+       "label": "Levereras som",
+       "value": "Endast fäste"
+      },
+      {
+       "label": "Passar",
+       "value": "Skärmar med standardiserat VESA-mönster"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Om produkten",
+       "heading": "Produktinformation",
+       "body": "Ett standardiserat VESA-fäste för att montera en skärm på ett golvstativ, en trussklämma eller en väggplatta. Det är den lilla detaljen som avgör om skärmen sitter där du behöver den eller står lutad mot en vägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "Inget saknas när du kommer på plats",
+       "heading": "Paketlösningar",
+       "body": "En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "55 inch TV with stand",
+         "body": "Komplett paket 55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": "N/A"
+        },
+        {
+         "title": "65 inch TV with stand",
+         "body": "Populärast 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": "N/A"
+        },
+        {
+         "title": "75 inch TV with stand",
+         "body": "Störst 75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": "N/A"
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "stands-mounts"
+  },
+  {
+   "type": "product",
+   "slug": "speaker-stand-skirt",
+   "path": {
+    "en": "/en/rent/speaker-stand-skirt",
+    "sv": "/hyra/speaker-stand-skirt"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-skirt-1024x1024.jpg",
+   "price_from": 20,
+   "price_unit": "kr / vecka",
+   "order": 5,
+   "content": {
+    "en": {
+     "eyebrow": "Accessories",
+     "h1": "Speaker Stand Skirt",
+     "intro": "A fitted black skirt that wraps a speaker stand from the top plate to the floor, hiding the pole, the base and whatever is cabled to it.",
+     "meta_title": "Speaker Stand Skirt Hire - Renthub.se",
+     "meta_description": "Fitted black skirt for speaker stands. Hides cabling and hardware for a clean front-of-house finish. Available for event hire in Sweden.",
+     "included": [
+      "Hired on its own. The stand itself is a separate item."
+     ],
+     "specs": [
+      {
+       "label": "Colour",
+       "value": "Black"
+      },
+      {
+       "label": "Fits",
+       "value": "Speaker stands"
+      },
+      {
+       "label": "From",
+       "value": "20 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Nothing missing when you get on site. A screen on its own still needs something to stand on. Our kits pair the display with a floor stand and a fitted skirt, on one line of your order — fewer things to check, and nothing forgotten in the van.",
+       "items": [
+        {
+         "title": "",
+         "body": "Complete kit 55″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Most booked 65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Largest 75″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Tillbehör",
+     "h1": "Stativkjol",
+     "intro": "En måttanpassad svart stativkjol som sluter om ett högtalarstativ från topplattan ner till golvet och döljer röret, foten och allt som är kopplat till stativet.",
+     "meta_title": "Hyra stativkjol till högtalarstativ - Renthub.se",
+     "meta_description": "Måttanpassad svart stativkjol till högtalarstativ. Döljer kablage och hårdvara för ett rent intryck framifrån.",
+     "included": [
+      "Hyrs separat. Själva stativet är en egen artikel."
+     ],
+     "specs": [
+      {
+       "label": "Färg",
+       "value": "Svart"
+      },
+      {
+       "label": "Passar",
+       "value": "Högtalarstativ"
+      },
+      {
+       "label": "Från",
+       "value": "20 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Om produkten",
+       "body": "Det är skillnaden mellan ett stativ som ser ut som utrustning och ett som ser ut som en del av rummet – värt att lägga till på allt som en deltagare eller kund kommer att stå bredvid. Varje paket nedan innehåller en.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Inget saknas när du kommer på plats",
+       "body": "En skärm behöver fortfarande något att stå på. Våra paket kombinerar skärmen med ett golvstativ och en måttanpassad stativkjol på en enda orderrad – färre saker att kontrollera och inget kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "55 inch TV",
+         "body": "Komplett paket 55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65 inch TV",
+         "body": "Populärast 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75 inch TV",
+         "body": "Störst 75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "category": "accessories"
+  },
+  {
+   "type": "product",
+   "slug": "guitar-stands",
+   "path": {
+    "en": "/en/rent/guitar-stands",
+    "sv": "/hyra/guitar-stands"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/guitar-stand-folding-a-frame.jpg",
+   "price_from": 75,
+   "price_unit": "kr / vecka",
+   "order": 6,
+   "content": {
+    "en": {
+     "eyebrow": "Stands & Mounts",
+     "h1": "Guitar Stands",
+     "intro": "Rent folding A-frame guitar stands for stages, green rooms and rehearsal spaces. Padded arms, tool-free setup, delivered across Sweden.",
+     "meta_title": "Guitar Stand Hire in Sweden - Renthub.se",
+     "meta_description": "Rent folding A-frame guitar stands for stages, green rooms and rehearsal spaces. Padded arms, tool-free setup, delivered across Sweden.",
+     "included": [
+      "Hired on its own. Other stands, mounts and display items are listed separately."
+     ],
+     "specs": [
+      {
+       "label": "Supplied as",
+       "value": "Stand only"
+      },
+      {
+       "label": "Colour",
+       "value": "Black"
+      },
+      {
+       "label": "Suitable for",
+       "value": "Guitars, or a confidence monitor screen"
+      },
+      {
+       "label": "From",
+       "value": "75 kr per week"
+      }
+     ],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Stativ och fästen",
+     "h1": "Gitarrstativ",
+     "intro": "Ett hopfällbart gitarrstativ i A-ram, svart, med gummiklädda armar och fötter så att varken instrumentets lack eller golvet får märken. Det monteras utan verktyg och fälls ihop platt igen för transport.",
+     "meta_title": "Hyra gitarrstativ i Sverige - Renthub.se",
+     "meta_description": "Hyr hopfällbara gitarrstativ i A-ram för scener, artistloger och replokaler. Klädda armar, verktygsfri montering.",
+     "included": [
+      "Hyrs styckvis, så du tar så många som backlinen faktiskt behöver – ett extra i artistlogen, eller en rad tvärs över scenen.",
+      "Levereras i hela Sverige tillsammans med resten av din order."
+     ],
+     "specs": [
+      {
+       "label": "Levereras som",
+       "value": "Endast stativ"
+      },
+      {
+       "label": "Färg",
+       "value": "Svart"
+      },
+      {
+       "label": "Passar för",
+       "value": "Gitarrer, eller en skärm som confidence monitor"
+      },
+      {
+       "label": "Från",
+       "value": "75 kr per vecka"
+      }
+     ],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "category": "stands-mounts"
+  },
+  {
+   "type": "kit",
+   "slug": "65-tv-with-stand-skirt",
+   "path": {
+    "en": "/en/kit/65-tv-with-stand-skirt",
+    "sv": "/paket/65-tv-with-stand-skirt"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-1024x572.jpg",
+   "price_from": 3530,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Complete kit",
+     "h1": "65″ TV with Stand & Skirt",
+     "intro": "Hire a 65-inch display with floor stand and fitted skirt. The workhorse size for conference breakouts and exhibition stands in Sweden.",
+     "meta_title": "65″ TV, Stand & Skirt Kit Hire - Renthub.se",
+     "meta_description": "Rent a 65-inch TV with Stand & Skirt for your conference breakouts and exhibition stands.",
+     "included": [
+      "1x LED TV 65\"",
+      "1x Speaker Stand",
+      "1x Vesa Mount",
+      "1x Speaker Stand Skirt"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "65″"
+      },
+      {
+       "label": "From",
+       "value": "3 530 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Ideal for",
+       "heading": "Conference breakouts, exhibition stands and training rooms.",
+       "body": "A 65-inch display, a height-adjustable floor stand and a fitted black skirt — booked as one line on your order and delivered as one thing to check on site. The workhorse size, and the one booked most often: readable from the back of most conference breakouts and exhibition stands.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Komplett paket",
+     "h1": "65″ TV med stativ och kjol",
+     "intro": "Hyr en 65-tums skärm med golvstativ och måttanpassad stativkjol. Den storlek vi skickar mest av till konferensrum och mässmontrar i Sverige.",
+     "meta_title": "Hyra 65 tums TV med stativ och kjol - Renthub.se",
+     "meta_description": "Hyr en 65-tums skärm med golvstativ och måttanpassad stativkjol.",
+     "included": [
+      "1x LED TV 65\"",
+      "1x Speaker Stand",
+      "1x Vesa Mount",
+      "1x Speaker Stand Skirt"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "65″"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Passar för",
+       "heading": "Grupprum på konferenser, mässmontrar och utbildningslokaler.",
+       "body": "En 65-tums skärm, ett höjdjusterbart golvstativ och en måttanpassad svart stativkjol – bokade som en enda orderrad och levererade som en sak att kontrollera på plats. Den storlek vi skickar mest av: läsbar från bakre raden i de flesta grupprum och mässmontrar.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "kit",
+   "slug": "75-tv-with-stand-skirt",
+   "path": {
+    "en": "/en/kit/75-tv-with-stand-skirt",
+    "sv": "/paket/75-tv-with-stand-skirt"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-1024x572.jpg",
+   "price_from": 4810,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Complete kit",
+     "h1": "75″ TV with Stand & Skirt",
+     "intro": "Complete kit for keynote rooms and main stages.",
+     "meta_title": "75″ TV, Stand & Skirt Kit Hire - Renthub.se",
+     "meta_description": "Hire a 75-inch display with floor stand and skirt for your events.",
+     "included": [
+      "1x LED TV 75\"",
+      "1x Speaker Stand",
+      "1x Vesa Mount",
+      "1x Speaker Stand Skirt"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "75″"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "What is in this kit",
+       "heading": "Included in the package",
+       "body": "A 75-inch display, a height-adjustable floor stand and a fitted black skirt — booked as one line on your order and delivered as one thing to check on site. Our largest single-screen package, for keynote rooms, main stages and large exhibition stands where the audience sits well back.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Komplett paket",
+     "h1": "75″ TV med stativ och kjol",
+     "intro": "Hyr en 75-tums skärm med golvstativ och måttanpassad stativkjol. Vårt största enskärmspaket, byggt för keynote-salar och huvudscener.",
+     "meta_title": "Hyra 75 tums TV med stativ och kjol - Renthub.se",
+     "meta_description": "Hyra en komplett paket med en 75-tums TV, stativ och kjol.",
+     "included": [
+      "1x LED TV 75\"",
+      "1x Speaker Stand",
+      "1x Vesa Mount",
+      "1x Speaker Stand Skirt"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "75″"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Det här ingår i paketet",
+       "heading": "Inkludera i paketet",
+       "body": "En 75-tums skärm, ett höjdjusterbart golvstativ och en måttanpassad svart stativkjol – bokade som en enda orderrad och levererade som en sak att kontrollera på plats. Vårt största enskärmspaket, för keynote-salar, huvudscener och stora mässmontrar där publiken sitter långt bak.",
+       "items": [
+        {
+         "title": "",
+         "body": "LED TV 75\"",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/c63da669-efcc-4b8a-b5b8-4f8e9d7126e2/large_upload.jpg",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Speaker Stand",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/cca2c6f2-126a-4082-b976-98e12263508d/large_F3speaker-stand_NU_WEB_large.jpg",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Vesa Mount",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/01d5580b-5128-44ce-b814-11aa44e4f63c/large_upload.jpg",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Speaker Stand Skirt",
+         "image": "https://content.booqablecdn.com/uploads/7006eabbdc1bcf820e8ad171f816146e/photo/photo/13906325-c27c-4e71-b736-e7785fe3ed44/large_416v0%2BhLrJL.jpg",
+         "link": "",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "kit",
+   "slug": "55-tv-with-stand-skirt",
+   "path": {
+    "en": "/en/kit/55-tv-with-stand-skirt",
+    "sv": "/paket/55-tv-with-stand-skirt"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-1024x572.jpg",
+   "price_from": 3063,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Complete kit",
+     "h1": "55″ TV with Stand & Skirt",
+     "intro": "Hire a 55-inch display complete with floor stand and fitted skirt. One line on your order, everything the screen needs. Delivered across Sweden.",
+     "meta_title": "55″ TV, Stand & Skirt Kit Hire - Renthub.se",
+     "meta_description": "Hire a 55-inch display with a stand and skirt for breakout rooms and exhibition stands.",
+     "included": [
+      "A 55-inch display",
+      "A height-adjustable floor stand",
+      "A fitted black skirt"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "55″"
+      },
+      {
+       "label": "Price from",
+       "value": "3 063 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Ideal for",
+       "heading": "Breakout rooms, exhibition stands and meeting spaces.",
+       "body": "Tested before dispatch · Nationwide delivery · Business invoicing",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Komplett paket",
+     "h1": "55″ TV med stativ och kjol",
+     "intro": "Hyr en 55-tums skärm komplett med golvstativ och måttanpassad stativkjol. En orderrad, allt skärmen behöver. Levereras i hela Sverige.",
+     "meta_title": "Hyra 55 tums TV med stativ och kjol - Renthub.se",
+     "meta_description": "Hyr en komplett 55-tums TV med golvstativ och måttanpassad kjol. Leverans i hela Sverige.",
+     "included": [
+      "1x LED TV 55\"",
+      "1x Speaker Stand",
+      "1x Vesa Mount",
+      "1x Speaker Stand Skirt"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "55″"
+      },
+      {
+       "label": "Från",
+       "value": "3 063 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Passar för",
+       "heading": "Grupprum, mässmontrar och mötesrum.",
+       "body": "En 55-tums skärm, ett höjdjusterbart golvstativ och en måttanpassad svart stativkjol – bokade som en orderrad och levererade som en sak att kontrollera på plats.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "kit",
+   "slug": "confidence-monitor-basic",
+   "path": {
+    "en": "/en/kit/confidence-monitor-basic",
+    "sv": "/paket/confidence-monitor-basic"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand.jpg",
+   "price_from": 2802,
+   "price_unit": "kr / vecka",
+   "order": 3,
+   "content": {
+    "en": {
+     "eyebrow": "Complete kit",
+     "h1": "Simple Confidence Monitor — 55″",
+     "intro": "Hire a 55-inch confidence monitor on a low folding stand — the screen that faces the stage so a presenter can see their slides and timer. Delivered across Sweden.",
+     "meta_title": "55″ Confidence Monitor Hire in Sweden - Renthub.se",
+     "meta_description": "Rent a 55-inch confidence monitor on a low folding stand for your event in Sweden.",
+     "included": [
+      "1x 55-inch display",
+      "1x Folding A-frame floor stand"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "55″"
+      },
+      {
+       "label": "Price from",
+       "value": "2 802 kr per week"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "What is in this kit",
+       "heading": "Kit details",
+       "body": "A 55-inch display and a folding A-frame floor stand, booked as one line and delivered as one thing to check on site. The stand sits the screen low and angles it up from the deck, so a presenter reads their slides and running time without turning away from the room.",
+       "items": []
+      },
+      {
+       "eyebrow": "Ideal uses",
+       "heading": "Recommended for",
+       "body": "Ideal for conference stages, keynote speakers and panel sets.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Komplett paket",
+     "h1": "Confidence monitor 55″ på lågt stativ",
+     "intro": "Hyr en 55-tums confidence monitor på ett lågt hopfällbart stativ – skärmen som vetter mot scenen så att talaren ser sina bilder och sin talartid. Levereras i hela Sverige.",
+     "meta_title": "Hyra confidence monitor 55 tum - Renthub.se",
+     "meta_description": "Hyr en 55-tums confidence monitor på ett lågt hopfällbart stativ. Perfekt för konferenser och presentationer i hela Sverige.",
+     "included": [
+      "1x 55-tums skärm",
+      "1x hopfällbart golvstativ i A-ram"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "55″"
+      },
+      {
+       "label": "Från",
+       "value": "2 802 kr per vecka"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Passar för",
+       "heading": "Konferensscener, keynote-talare och panelsamtal.",
+       "body": "Stativet placerar skärmen lågt och vinklar den uppåt från scengolvet, så att talaren läser sina bilder och sin talartid utan att vända sig bort från rummet.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "kit",
+   "slug": "simple-confidence-monitor-65",
+   "path": {
+    "en": "/en/kit/simple-confidence-monitor-65",
+    "sv": "/paket/simple-confidence-monitor-65"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/confidence-monitor-stage-floor-stand.jpg",
+   "price_from": 3269,
+   "price_unit": "kr / vecka",
+   "order": 4,
+   "content": {
+    "en": {
+     "eyebrow": "Complete kit",
+     "h1": "Simple Confidence Monitor — 65\"",
+     "intro": "Hire a 65-inch confidence monitor on a low folding stand — the screen that faces the stage so a presenter can see their slides and timer. Delivered across Sweden.",
+     "meta_title": "65″ Confidence Monitor Hire in Sweden - Renthub.se",
+     "meta_description": "Rent a 65-inch confidence monitor for your events, ideal for larger stages and auditoriums.",
+     "included": [
+      "65-inch display",
+      "folding A-frame floor stand"
+     ],
+     "specs": [
+      {
+       "label": "Screen size",
+       "value": "65\""
+      },
+      {
+       "label": "From",
+       "value": "3 269 kr per week"
+      }
+     ],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Komplett paket",
+     "h1": "Confidence monitor 65″ på lågt stativ",
+     "intro": "Hyr en 65-tums confidence monitor på ett lågt hopfällbart stativ – skärmen som vetter mot scenen så att talaren ser sina bilder och sin talartid. Levereras i hela Sverige.",
+     "meta_title": "Hyra confidence monitor 65 tum - Renthub.se",
+     "meta_description": "Hyr en 65-tums confidence monitor på ett lågt hopfällbart stativ – skärmen som vetter mot scenen så att talaren ser sina bilder och sin talartid. Levereras i hela Sverige.",
+     "included": [
+      "En 65-tums skärm",
+      "Ett hopfällbart golvstativ i A-ram"
+     ],
+     "specs": [
+      {
+       "label": "Skärmstorlek",
+       "value": "65″"
+      },
+      {
+       "label": "Från",
+       "value": "3 269 kr per vecka"
+      }
+     ],
+     "sections": [],
+     "cta": {}
+    }
+   }
+  },
+  {
+   "type": "category",
+   "slug": "displays",
+   "path": {
+    "en": "/en/equipment-category/displays",
+    "sv": "/utrustning/skarmar"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/led-tv-1024x819.png",
+   "price_from": 2727,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Displays",
+     "h1": "LED displays for hire",
+     "intro": "Professional 55, 65 and 75 inch LED displays for conferences, exhibition stands, training rooms and showrooms. Screen only, or as a complete kit with stand and skirt.",
+     "meta_title": "LED Displays for Hire in Sweden - Renthub.se",
+     "meta_description": "Hire professional 55, 65 and 75 inch LED displays for conferences, trade shows and corporate events in Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Skärmar",
+     "h1": "LED-skärmar för uthyrning",
+     "intro": "Professionella 55-, 65- och 75-tums LED-skärmar för konferenser, mässmontrar, utbildningslokaler och showrooms. Endast skärm eller som komplett paket med stativ och kjol.",
+     "meta_title": "Hyra LED-skärmar i Sverige - Renthub.se",
+     "meta_description": "Hyr professionella 55-, 65- och 75-tums LED-skärmar för konferenser, mässor och företagsevent i hela Sverige.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "skarmar"
+  },
+  {
+   "type": "category",
+   "slug": "stands-mounts",
+   "path": {
+    "en": "/en/equipment-category/stands-mounts",
+    "sv": "/utrustning/stativ-fasten"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-1024x640.jpg",
+   "price_from": 50,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Stands & mounts",
+     "h1": "Stands and mounts for hire",
+     "intro": "Height-adjustable floor stands, VESA plates and folding A-frames — the hardware that holds the screen up and keeps it steady on site.",
+     "meta_title": "Screen Stands & Mounts for Hire - Renthub.se",
+     "meta_description": "Hire height-adjustable floor stands, VESA mounts and folding stands for events across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Stativ och fästen",
+     "h1": "Stativ och fästen för uthyrning",
+     "intro": "Höjdjusterbara golvstativ, VESA-plattor och fällbara A-stativ – hårdvaran som håller upp skärmen och står stabilt på plats.",
+     "meta_title": "Hyra stativ och fästen för skärm - Renthub.se",
+     "meta_description": "Hyr höjdjusterbara golvstativ, VESA-fästen och fällbara stativ för event i hela Sverige.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "stativ-fasten"
+  },
+  {
+   "type": "category",
+   "slug": "accessories",
+   "path": {
+    "en": "/en/equipment-category/accessories",
+    "sv": "/utrustning/tillbehor"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/speaker-stand-skirt-1024x1024.jpg",
+   "price_from": 20,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Accessories",
+     "h1": "Accessories for hire",
+     "intro": "Fitted skirts, cables and the small parts that finish the job — so nothing is missing when the room has to look right.",
+     "meta_title": "AV Accessories for Hire - Renthub.se",
+     "meta_description": "Hire fitted stand skirts, cables and AV accessories for events across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Tillbehör",
+     "h1": "Tillbehör för uthyrning",
+     "intro": "Måttanpassade stativkjolar, kablar och de små delarna som gör jobbet klart – så att inget saknas när rummet ska se rätt ut.",
+     "meta_title": "Hyra AV-tillbehör - Renthub.se",
+     "meta_description": "Hyr måttanpassade stativkjolar, kablar och AV-tillbehör för event i hela Sverige.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "tillbehor"
+  },
+  {
+   "type": "venue",
+   "slug": "stockholm-waterfront",
+   "path": {
+    "en": "/en/av-hire/stockholm/stockholm-waterfront",
+    "sv": "/av-uthyrning/stockholm/stockholm-waterfront"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Your AV partner in Stockholm",
+     "h1": "AV hire at Stockholm Waterfront Congress Centre",
+     "intro": "Congress halls run to a schedule that starts long before the doors open. We deliver tested screens, floor stands, and fitted skirts to Nils Ericsons Plan, timed to the access window the venue gives you rather than to a courier slot, and collect once you are struck.",
+     "meta_title": "AV Hire at Stockholm Waterfront Congress Centre - Renthub.se",
+     "meta_description": "Specializing in AV hire for congresses and exhibitions in Stockholm.",
+     "included": [
+      "75″ TV med stativ och kjol"
+     ],
+     "specs": [
+      {
+       "label": "Lokaladress",
+       "value": "Nils Ericsons Plan 4, Stockholm"
+      },
+      {
+       "label": "Webbplats",
+       "value": "[Besök webbplatsen för Stockholm Waterfront Congress Centre](https://stockholmwaterfront.com/)"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Recommended Equipment",
+       "heading": "Our pick for a venue like this",
+       "body": "What we usually send",
+       "items": [
+        {
+         "title": "75 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Our pick **75″ TV with Stand & Skirt**. Screen, floor stand and fitted skirt. One line on the order, one thing to check off the van.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Why this size here",
+       "body": "Congress and exhibition rooms are wide, bright and full of competing sightlines, so seventy-five inches is the default here. A 75-inch screen still reads from the back of a broad room and from an angle, which is where smaller panels start to lose the people at the edges.",
+       "items": []
+      },
+      {
+       "eyebrow": "Benefits of hiring with us",
+       "heading": "Why hire from us",
+       "body": "Procurement-friendly, business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Quality Assurance",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Redan kund?",
+     "h1": "AV-uthyrning på Stockholm Waterfront Congress Centre",
+     "intro": "Kongresshallar går efter ett schema som börjar långt innan dörrarna öppnar. Vi levererar testade skärmar, golvstativ och måttanpassade stativkjolar till Nils Ericsons Plan, tidsatt efter lokalens insläppstider snarare än efter en budbils tidsfönster, och hämtar när ni har rivit.",
+     "meta_title": "Hyra AV-utrustning till Stockholm Waterfront - Renthub.se",
+     "meta_description": "Bästa AV-uthyrning för kongresser och mässor i Stockholm.",
+     "included": [
+      "75″ TV med stativ och kjol"
+     ],
+     "specs": [
+      {
+       "label": "Lokaladress",
+       "value": "Nils Ericsons Plan 4, Stockholm"
+      },
+      {
+       "label": "Webbplats",
+       "value": "[Besök webbplatsen för Stockholm Waterfront Congress Centre](https://stockholmwaterfront.com/)"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Varför den här storleken här",
+       "heading": "Vårt val för en lokal som den här",
+       "body": "Kongress- och mässlokaler är breda, ljusa och fulla av annat som drar blicken, så sjuttiofem tum är standardvalet här.",
+       "items": [
+        {
+         "title": "75 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Skärm, golvstativ och måttanpassad stativkjol. En orderrad, en post att stämma av.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Enkelt för inköp",
+       "heading": "Varför hyra av oss",
+       "body": "Företagskonto, bokning mot inköpsorder och fakturering på dina villkor. Ingen kortbetalning och inga personliga utlägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "Du behåller ditt eget team",
+       "heading": "Varför hyra av oss",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "Det ser rätt ut när det kommer",
+       "heading": "Varför hyra av oss",
+       "body": "Rena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue",
+   "slug": "stockholmsmassan",
+   "path": {
+    "en": "/en/av-hire/stockholm/stockholmsmassan",
+    "sv": "/av-uthyrning/stockholm/stockholmsmassan"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Convenience and quality",
+     "h1": "AV hire at Stockholmsmässan",
+     "intro": "Halls turn over in hours, not days. We deliver tested screens and stands to your stand or hall, timed to the access window you are given, and collect the same way once breakdown starts.",
+     "meta_title": "AV Hire at Stockholmsmässan - Renthub.se",
+     "meta_description": "Quality AV hire services at Stockholmsmässan - timely delivery, clean equipment, and tailored solutions.",
+     "included": [
+      "75″ TV with Stand & Skirt"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What we usually send",
+       "heading": "Our pick for a venue like this",
+       "body": "Exhibition halls are large, bright and full of competing signage. Seventy-five inches is the size that still reads from the aisle rather than only from directly in front of the stand.",
+       "items": [
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Screen, floor stand and fitted skirt. One line on the order, one thing to check off the van.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Benefits of hiring",
+       "heading": "Why hire from us",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Kongress- och mässanläggning",
+     "h1": "AV-uthyrning på Stockholmsmässan",
+     "intro": "En hall byts om på timmar, inte dagar. Vi levererar testade skärmar och stativ till er monter eller hall, tidsatt efter lokalens insläppstider, och hämtar på samma sätt när ni börjar riva.",
+     "meta_title": "Hyra AV-utrustning till Stockholmsmässan - Renthub.se",
+     "meta_description": "Vi levererar testade skärmar och stativ till er monter eller hall, tidsatt efter lokalens insläppstider.",
+     "included": [
+      "75″ TV with Stand & Skirt"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Vårt val för en lokal som den här",
+       "heading": "Varför den här storleken här",
+       "body": "Mässhallar är stora, ljusa och fulla av konkurrerande skyltning. Sjuttiofem tum läses från gången, inte bara rakt framifrån montern. Det är en rekommendation, inte en begränsning. Allt i sortimentet kan levereras till den här adressen med samma leverans.",
+       "items": [
+        {
+         "title": "75 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Vårt val 75″ TV med stativ och kjol - Skärm, golvstativ och måttanpassad stativkjol. En orderrad, en post att stämma av.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Varför hyra av oss",
+       "heading": "Enkelt för inköp",
+       "body": "Företagskonto, bokning mot inköpsorder och fakturering på dina villkor. Ingen kortbetalning och inga personliga utlägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Du behåller ditt eget team",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Det ser rätt ut när det kommer",
+       "body": "Rena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue",
+   "slug": "munchenbryggeriet",
+   "path": {
+    "en": "/en/av-hire/stockholm/munchenbryggeriet",
+    "sv": "/av-uthyrning/stockholm/munchenbryggeriet"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-product-launches-1024x769.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Concert & Event Space",
+     "h1": "AV hire at Münchenbryggeriet",
+     "intro": "Screens on floor stands go where you need them and leave the building alone, which is rather the point in a venue with character. We deliver tested kit to the door, timed to your access window, and collect after the get-out.",
+     "meta_title": "AV Hire at Münchenbryggeriet - Renthub.se",
+     "meta_description": "AV hire services including equipment rentals for events at Münchenbryggeriet.",
+     "included": [
+      "Skärm, golvstativ och måttanpassad stativkjol"
+     ],
+     "specs": [
+      {
+       "label": "Plats",
+       "value": "Münchenbryggeriet"
+      },
+      {
+       "label": "Adress",
+       "value": "Torkel Knutssonsgatan 2, 118 25 Stockholm"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Our pick for a venue like this",
+       "heading": "Recommended Equipment",
+       "body": "What we usually send",
+       "items": [
+        {
+         "title": "65 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Our pick **65″ TV with Stand & Skirt** \nScreen, floor stand and fitted skirt. One line on the order, one thing to check off the van.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Why this size here",
+       "body": "Sixty-five inches on a floor stand goes where the room allows rather than where a fixture happens to be, which is what you want in a space you cannot drill into. It is a recommendation, not a restriction. Anything in the catalogue can go to this address on the same delivery.",
+       "items": []
+      },
+      {
+       "eyebrow": "Procurement-friendly",
+       "heading": "Why hire from us",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Vy över produkterna",
+     "h1": "AV-uthyrning på Münchenbryggeriet",
+     "intro": "Skärmar på golvstativ hamnar där du behöver dem och lämnar byggnaden i fred, vilket är hela poängen i en lokal med karaktär. Vi levererar testad utrustning till dörren, tidsatt efter lokalens insläppstider, och hämtar efter rivning.",
+     "meta_title": "Hyra AV-utrustning till Münchenbryggeriet - Renthub.se",
+     "meta_description": "AV-uthyrning för produktlanseringar på Münchenbryggeriet",
+     "included": [
+      "Skärm, golvstativ och måttanpassad stativkjol"
+     ],
+     "specs": [
+      {
+       "label": "Plats",
+       "value": "Münchenbryggeriet"
+      },
+      {
+       "label": "Adress",
+       "value": "Torkel Knutssonsgatan 2, 118 25 Stockholm"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Varför hyra av oss",
+       "heading": "Enkelt för inköp",
+       "body": "En orderrad, en post att stämma av.",
+       "items": [
+        {
+         "title": "65 inch TV with stand and skirt",
+         "body": "Vårt val **65″ TV med stativ och kjol**",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Det ser rätt ut när det kommer",
+       "heading": "",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Rena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue",
+   "slug": "aula-magna",
+   "path": {
+    "en": "/en/av-hire/stockholm/aula-magna",
+    "sv": "/av-uthyrning/stockholm/aula-magna"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-agms-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 3,
+   "content": {
+    "en": {
+     "eyebrow": "University & Academic",
+     "h1": "AV hire at Aula Magna, Stockholm University",
+     "intro": "Academic conferences run to a tight programme and usually to a tighter budget. We hire you the screens and the stands and nothing else — no bundled crew, and no day rate for someone to stand beside a laptop.",
+     "meta_title": "AV Hire at Aula Magna, Stockholm University - Renthub.se",
+     "meta_description": "Hire AV equipment for conferences at Aula Magna, Stockholm University. Flexible rental options without bundled crew.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Our pick for a venue like this",
+       "heading": "Why this size here",
+       "body": "Sixty-five inches suits a seminar or session room without dominating it, and it is the size most presenters have already built their slides for.",
+       "items": [
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Screen, floor stand and fitted skirt. One line on the order, one thing to check off the van.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why hire from us",
+       "heading": "Procurement-friendly",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Universitet och högskola",
+     "h1": "AV-uthyrning på Aula Magna, Stockholms universitet",
+     "intro": "Akademiska konferenser går efter ett snävt program och oftast en ännu snävare budget. Vi hyr ut skärmarna och stativen och ingenting annat – ingen inbakad personal, och inget dagsarvode för någon som ska stå bredvid en laptop.",
+     "meta_title": "Hyra AV-utrustning till Aula Magna - Renthub.se",
+     "meta_description": "Hyra AV-utrustning för konferenser på Aula Magna, Stockholms universitet. Enkelt för inköp och utan inbakad personal.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Vårt val för en lokal som den här",
+       "heading": "Varför den här storleken här",
+       "body": "Vad vi brukar skicka",
+       "items": [
+        {
+         "title": "65 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Vårt val **65″ TV med stativ och kjol** \nSkärm, golvstativ och måttanpassad stativkjol. En orderrad, en post att stämma av.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Varför hyra av oss",
+       "heading": "Vi gör det enkelt",
+       "body": "Enkelt för inköp\nFöretagskonto, bokning mot inköpsorder och fakturering på dina villkor. Ingen kortbetalning och inga personliga utlägg.\n\nDu behåller ditt eget team\nDry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.\n\nDet ser rätt ut när det kommer\nRena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue",
+   "slug": "sheraton-stockholm",
+   "path": {
+    "en": "/en/av-hire/stockholm/sheraton-stockholm",
+    "sv": "/av-uthyrning/stockholm/sheraton-stockholm"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-hotel-meeting-room-683x1024.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 4,
+   "content": {
+    "en": {
+     "eyebrow": "Our pick for a venue like this",
+     "h1": "AV hire at Sheraton Stockholm Hotel",
+     "intro": "Put the screen where the room actually needs it, rather than where a fixed one happens to be. We deliver a display on a floor stand for your dates, timed to your access window, and collect when the meeting is done.",
+     "meta_title": "AV Hire at the Sheraton Stockholm Hotel - Renthub.se",
+     "meta_description": "Hire AV equipment for your meetings at Sheraton Stockholm Hotel.",
+     "included": [
+      "Screen",
+      "Floor stand",
+      "Fitted skirt"
+     ],
+     "specs": [
+      {
+       "label": "Address",
+       "value": "Tegelbacken 6, 101 23 Stockholm"
+      },
+      {
+       "label": "Website",
+       "value": "[Visit the Sheraton Stockholm Hotel website](https://www.marriott.com/en-us/hotels/stosi-sheraton-stockholm-hotel/overview/)"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Why this size here",
+       "heading": "Our pick for a venue like this",
+       "body": "Sixty-five inches is the workhorse for a meeting room: readable the length of a boardroom table without taking the room over. It is a recommendation, not a restriction. Anything in the catalogue can go to this address on the same delivery.",
+       "items": [
+        {
+         "title": "65 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why hire from us",
+       "heading": "Procurement-friendly",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Levererar i Stockholm",
+     "h1": "AV-uthyrning på Sheraton Stockholm Hotel",
+     "intro": "Placera skärmen där rummet faktiskt behöver den, i stället för där en fast skärm råkar sitta. Vi levererar en skärm på golvstativ för era datum, tidsatt efter lokalens insläppstider, och hämtar när mötet är slut.",
+     "meta_title": "Hyra AV-utrustning till Sheraton Stockholm - Renthub.se",
+     "meta_description": "Professionell AV-uthyrning för företagsevent i Stockholm.",
+     "included": [
+      "Skärm",
+      "Golvstativ",
+      "Måttanpassad stativkjol"
+     ],
+     "specs": [
+      {
+       "label": "Address",
+       "value": "Tegelbacken 6, 101 23 Stockholm"
+      },
+      {
+       "label": "Website",
+       "value": "[Visit the Sheraton Stockholm Hotel website](https://www.marriott.com/en-us/hotels/stosi-sheraton-stockholm-hotel/overview/)"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Varför den här storleken här",
+       "heading": "Vårt val för en lokal som den här",
+       "body": "Sextiofem tum är den storlek vi skickar mest av till ett mötesrum: läsbar längs hela konferensbordet utan att ta över rummet.",
+       "items": [
+        {
+         "title": "65 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "Vårt val 65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": "Ingen prisinformation"
+        }
+       ]
+      },
+      {
+       "eyebrow": "Varför hyra av oss",
+       "heading": "Enkelt för inköp",
+       "body": "Företagskonto, bokning mot inköpsorder och fakturering på dina villkor. Ingen kortbetalning och inga personliga utlägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Du behåller ditt eget team",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Det ser rätt ut när det kommer",
+       "body": "Rena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue",
+   "slug": "kistamassan",
+   "path": {
+    "en": "/en/av-hire/stockholm/kistamassan",
+    "sv": "/av-uthyrning/stockholm/kistamassan"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-congress-exhibition-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 5,
+   "content": {
+    "en": {
+     "eyebrow": "Serving Stockholm",
+     "h1": "AV hire at Kistamässan",
+     "intro": "We deliver tested screens and stands to your stand in Kista, timed to the access window you are given, and collect once the show is struck. One order, priced in full before you commit to it.",
+     "meta_title": "AV Hire at Kistamässan - Renthub.se",
+     "meta_description": "AV hire at Kistamässan in Kista. Tested screens",
+     "included": [
+      "75\" TV med stativ och kjol",
+      "Skärm",
+      "Golvstativ",
+      "Måttanpassad stativkjol"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What we usually send",
+       "heading": "Our pick for a venue like this",
+       "body": "Exhibition halls are large, bright and full of competing signage. Seventy-five inches is the size that still reads from the aisle rather than only from directly in front of the stand.",
+       "items": [
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Screen, floor stand and fitted skirt. One line on the order, one thing to check off the van.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Why hire from us",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. Whatever else is going on in the hall, the kit is not the thing letting the room down.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Kongress- och mässanläggning",
+     "h1": "AV-uthyrning på Kistamässan",
+     "intro": "Vi levererar testade skärmar och stativ till er monter i Kista, tidsatt efter lokalens insläppstider, och hämtar när mässan är riven. En order, med fast pris innan ni bokar.",
+     "meta_title": "Hyra AV-utrustning till Kistamässan - Renthub.se",
+     "meta_description": "AV-uthyrning på Kistamässan med testade skärmar och stativ.",
+     "included": [
+      "75\" TV med stativ och kjol",
+      "Skärm",
+      "Golvstativ",
+      "Måttanpassad stativkjol"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Varför den här storleken här",
+       "heading": "",
+       "body": "Mässhallar är stora, ljusa och fulla av konkurrerande skyltning. Sjuttiofem tum läses från gången, inte bara rakt framifrån montern.",
+       "items": []
+      },
+      {
+       "eyebrow": "Varför hyra av oss",
+       "heading": "",
+       "body": "Enkelt för inköp",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Rena skärmar, raka stativ och kjolar som sitter. Vad som än händer i rummet är det inte utrustningen som drar ner intrycket.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "city": "stockholm"
+  },
+  {
+   "type": "venue_type",
+   "slug": "congress-exhibition-centre",
+   "path": {
+    "en": "/en/venue-type/congress-exhibition-centre",
+    "sv": "/lokaltyp/kongress-massanlaggning"
+   },
+   "image": "",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "Venue type",
+     "h1": "AV hire for congress & exhibition centres",
+     "intro": "Tested displays, floor stands and fitted skirts delivered to the door, set down where you need them and collected after breakdown.",
+     "meta_title": "AV hire for congress & exhibition centres in Sweden - Renthub.se",
+     "meta_description": "AV dry hire for congress & exhibition centres in Sweden. Tested screens, stands and skirts delivered to the venue and collected after derig.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Lokaltyp",
+     "h1": "AV-uthyrning för kongress- och mässanläggningar",
+     "intro": "Testade skärmar, golvstativ och skirtar levereras till dörren, ställs där du behöver dem och hämtas efter rivning.",
+     "meta_title": "AV-uthyrning för kongress- och mässanläggningar i Sverige - Renthub.se",
+     "meta_description": "AV-uthyrning för kongress- och mässanläggningar i Sverige. Testade skärmar, stativ och skirtar levereras till lokalen och hämtas efter rivning.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "kongress-massanlaggning"
+  },
+  {
+   "type": "venue_type",
+   "slug": "hotel-meeting-rooms",
+   "path": {
+    "en": "/en/venue-type/hotel-meeting-rooms",
+    "sv": "/lokaltyp/hotell-konferensrum"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/venue-type-hotel-meeting-room-768x1152.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Venue type",
+     "h1": "AV hire for hotels & meeting rooms",
+     "intro": "Tested displays, floor stands and fitted skirts delivered to the door, set down where you need them and collected after breakdown.",
+     "meta_title": "AV hire for hotels & meeting rooms in Sweden - Renthub.se",
+     "meta_description": "AV dry hire for hotels & meeting rooms in Sweden. Tested screens, stands and skirts delivered to the venue and collected after derig.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Lokaltyp",
+     "h1": "AV-uthyrning för hotell- och konferensrum",
+     "intro": "Testade skärmar, golvstativ och skirtar levereras till dörren, ställs där du behöver dem och hämtas efter rivning.",
+     "meta_title": "AV-uthyrning för hotell- och konferensrum i Sverige - Renthub.se",
+     "meta_description": "AV-uthyrning för hotell- och konferensrum i Sverige. Testade skärmar, stativ och skirtar levereras till lokalen och hämtas efter rivning.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "hotell-konferensrum"
+  },
+  {
+   "type": "venue_type",
+   "slug": "concert-event-space",
+   "path": {
+    "en": "/en/venue-type/concert-event-space",
+    "sv": "/lokaltyp/konsert-evenemangslokal"
+   },
+   "image": "",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Venue type",
+     "h1": "AV hire for concert & event spaces",
+     "intro": "Tested displays, floor stands and fitted skirts delivered to the door, set down where you need them and collected after breakdown.",
+     "meta_title": "AV hire for concert & event spaces in Sweden - Renthub.se",
+     "meta_description": "AV dry hire for concert & event spaces in Sweden. Tested screens, stands and skirts delivered to the venue and collected after derig.",
+     "included": [
+      "Münchenbryggeriet"
+     ],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Lokaltyp",
+     "h1": "AV-uthyrning för konsert- och evenemangslokaler",
+     "intro": "Testade skärmar, golvstativ och skirtar levereras till dörren, ställs där du behöver dem och hämtas efter rivning.",
+     "meta_title": "AV-uthyrning för konsert- och evenemangslokaler i Sverige - Renthub.se",
+     "meta_description": "AV-uthyrning för konsert- och evenemangslokaler i Sverige. Testade skärmar, stativ och skirtar levereras till lokalen och hämtas efter rivning.",
+     "included": [
+      "Münchenbryggeriet"
+     ],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "konsert-evenemangslokal"
+  },
+  {
+   "type": "venue_type",
+   "slug": "university-academic",
+   "path": {
+    "en": "/en/venue-type/university-academic",
+    "sv": "/lokaltyp/universitet-hogskola"
+   },
+   "image": "",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 3,
+   "content": {
+    "en": {
+     "eyebrow": "Venue type",
+     "h1": "AV hire for universities & academic venues",
+     "intro": "Tested displays, floor stands and fitted skirts delivered to the door, set down where you need them and collected after breakdown.",
+     "meta_title": "AV hire for universities & academic venues in Sweden - Renthub.se",
+     "meta_description": "AV dry hire for universities & academic venues in Sweden. Tested screens, stands and skirts delivered to the venue and collected after derig.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Lokaltyp",
+     "h1": "AV-uthyrning för universitet och högskolor",
+     "intro": "Testade skärmar, golvstativ och skirtar levereras till dörren, ställs där du behöver dem och hämtas efter rivning.",
+     "meta_title": "AV-uthyrning för universitet och högskolor i Sverige - Renthub.se",
+     "meta_description": "AV-uthyrning för universitet och högskolor i Sverige. Testade skärmar, stativ och skirtar levereras till lokalen och hämtas efter rivning.",
+     "included": [],
+     "specs": [],
+     "sections": [],
+     "cta": {}
+    }
+   },
+   "slug_sv": "universitet-hogskola"
+  },
+  {
+   "type": "landing",
+   "slug": "conference-av-hire",
+   "path": {
+    "en": "/en/conference-av-hire",
+    "sv": "/konferens-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-conferences-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "",
+     "h1": "AV hire for conferences",
+     "intro": "Breakout rooms, registration desks and the main plenary all need screens, and they all need them working at 08:00. We dry hire tested displays, floor stands and mounts to conference organisers across Sweden — delivered to the venue, collected after derig.",
+     "meta_title": "AV Hire for Conferences - Renthub.se",
+     "meta_description": "AV rental services for conferences in Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What we usually send",
+       "heading": "Screen kits that suit a conference floor",
+       "body": "Each kit is one line on your order: screen, floor stand and fitted skirt. Fewer things to check on site, nothing forgotten in the van.",
+       "items": [
+        {
+         "title": "55 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "55″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75 inch TV on floor stand with fitted skirt, complete hire kit",
+         "body": "75″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why organisers hire from us",
+       "heading": "",
+       "body": "Every screen is powered on and checked before dispatch, and packed with the cables and adapters it actually needs. No hunting for a VESA plate at 6am.",
+       "items": []
+      },
+      {
+       "eyebrow": "Multi-room quantities",
+       "heading": "",
+       "body": "Conferences need the same kit repeated across many rooms. Set your dates and see real stock levels rather than a promise to check.",
+       "items": []
+      },
+      {
+       "eyebrow": "Dry hire, on account",
+       "heading": "",
+       "body": "You already have a crew. Take the gear and nothing else, booked against a PO and invoiced on your terms.",
+       "items": []
+      },
+      {
+       "eyebrow": "Where we deliver",
+       "heading": "",
+       "body": "Everything goes out from our warehouse in Örebro. Start with the city you are working in.",
+       "items": [
+        {
+         "title": "",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/en/av-hire/stockholm",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/en/av-hire/goteborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Malmö",
+         "image": "",
+         "link": "/en/av-hire/malmo",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/en/av-hire/uppsala",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Västerås",
+         "image": "",
+         "link": "/en/av-hire/vasteras",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Örebro",
+         "image": "",
+         "link": "/en/av-hire/orebro",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Linköping",
+         "image": "",
+         "link": "/en/av-hire/linkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/en/av-hire/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/en/av-hire/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/en/av-hire/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Lund",
+         "image": "",
+         "link": "/en/av-hire/lund",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Umeå",
+         "image": "",
+         "link": "/en/av-hire/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "",
+     "h1": "AV-uthyrning för konferenser",
+     "intro": "Vi hyr ut testade skärmar, golvstativ och fästen som dry hire till konferensarrangörer i hela Sverige – vi levererar till lokalen och hämtar efter rivning.",
+     "meta_title": "AV-uthyrning för konferenser - Renthub.se",
+     "meta_description": "AV-uthyrning för konferenser i Sverige. Professionella skärmar",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Det vi oftast skickar",
+       "heading": "Skärmpaket som passar en konferenslokal",
+       "body": "Varje paket är en rad på din order: skärm, golvstativ och måttanpassad stativkjol. Färre saker att kontrollera på plats, ingenting kvarglömt i bilen.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "Grupprum, registrering och skyltning.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "Den storlek vi skickar mest av till sessionsrum.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "Plenarsalar och keynote-scener.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Därför hyr arrangörer av oss",
+       "heading": "Det fungerar när det kommer fram",
+       "body": "Varje skärm startas upp och kontrolleras före leverans, och packas med de kablar och adaptrar den faktiskt behöver. Ingen jakt efter en VESA-platta kvart i sju på morgonen.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Kvantiteter för flera rum",
+       "body": "Konferenser kräver samma utrustning i rum efter rum. Ange dina datum och se verkliga lagersaldon i stället för ett löfte om att någon ska kolla.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Dry hire, mot faktura",
+       "body": "Du har redan ett team. Ta bara utrustningen och inget annat, bokad mot inköpsorder och fakturerad på dina villkor.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Dit vi levererar",
+       "body": "Allt går ut från vårt lager i Örebro. Börja med staden du jobbar i.",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "konferens-av-uthyrning"
+  },
+  {
+   "type": "landing",
+   "slug": "trade-show-av-hire",
+   "path": {
+    "en": "/en/trade-show-av-hire",
+    "sv": "/massa-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-trade-shows-1024x576.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "What we usually send",
+     "h1": "AV hire for trade shows",
+     "intro": "An exhibition stand lives or dies on whether people stop walking. A bright, correctly mounted screen does that. We dry hire displays, floor stands and mounts to exhibitors and stand builders across Sweden, delivered to the hall and collected after breakdown.",
+     "meta_title": "AV Hire for Trade Shows - Renthub.se",
+     "meta_description": "Dry hire displays, floor stands and mounts to exhibitors and stand builders across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Screen kits built for stand space",
+       "heading": "What we usually send",
+       "body": "Free-standing, no rigging and no wall fixings needed — which matters when the venue charges for both. The skirt hides the base and the cabling.",
+       "items": [
+        {
+         "title": "55\" TV with Stand & Skirt",
+         "body": "Fits a 3×3 stand without dominating it.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65\" TV with Stand & Skirt",
+         "body": "Visible down an aisle. The usual choice.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75\" TV with Stand & Skirt",
+         "body": "Island stands and headline exhibitors.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why exhibitors hire from us",
+       "heading": "Short, awkward windows",
+       "body": "Build-up and breakdown happen in a few hours, often overnight. We plan delivery and collection around the hall's access times, not ours.",
+       "items": []
+      },
+      {
+       "eyebrow": "Why exhibitors hire from us",
+       "heading": "Nothing to rig",
+       "body": "Floor stands mean no fixings into stand walls and no rigging charges. Set it down, dress the skirt, run the cable.",
+       "items": []
+      },
+      {
+       "eyebrow": "Why exhibitors hire from us",
+       "heading": "It looks finished",
+       "body": "A fitted black skirt hides the base, the ballast and the cable run — the difference between a stand that looks built and one that looks assembled.",
+       "items": []
+      },
+      {
+       "eyebrow": "Where we deliver",
+       "heading": "Delivering across Sweden",
+       "body": "Everything goes out from our warehouse in Örebro. Start with the city you are working in.",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/en/av-hire/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/en/av-hire/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "Malmö",
+         "image": "",
+         "link": "/en/av-hire/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/en/av-hire/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "Västerås",
+         "image": "",
+         "link": "/en/av-hire/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "Örebro",
+         "image": "",
+         "link": "/en/av-hire/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "Linköping",
+         "image": "",
+         "link": "/en/av-hire/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/en/av-hire/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/en/av-hire/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/en/av-hire/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "Lund",
+         "image": "",
+         "link": "/en/av-hire/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "Umeå",
+         "image": "",
+         "link": "/en/av-hire/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "What we usually send",
+     "h1": "AV-uthyrning för mässor",
+     "intro": "En mässmonter lever på att folk stannar upp. En ljusstark, rätt monterad skärm får dem att göra det. Vi hyr ut skärmar, golvstativ och fästen som dry hire till utställare och monterbyggare i hela Sverige – vi levererar till hallen och hämtar efter nedmontering.",
+     "meta_title": "AV-uthyrning för mässor - Renthub.se",
+     "meta_description": "En mässmonter lever på att folk stannar upp. Vi hyr ut skärmar, golvstativ och fästen som dry hire till utställare i hela Sverige.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Skärmpaket byggda för monterytan",
+       "heading": "Det vi oftast skickar",
+       "body": "Fristående, utan rigg och utan infästningar i väggen – vilket spelar roll när anläggningen tar betalt för båda. Stativkjolen döljer foten och kablaget.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Därför hyr utställare av oss",
+       "heading": "Korta, obekväma tidsfönster",
+       "body": "Montering och nedmontering sker på några få timmar, ofta nattetid. Vi planerar leverans och hämtning efter hallens tider för in- och utlastning, inte efter våra.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Inget att rigga",
+       "body": "Golvstativ betyder inga infästningar i monterväggarna och inga riggavgifter. Ställ ner det, sätt på kjolen, dra kabeln.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Det ser färdigt ut",
+       "body": "En måttanpassad svart stativkjol döljer foten, ballasten och kabeldragningen – skillnaden mellan en monter som ser byggd ut och en som ser ihopsatt ut.",
+       "items": []
+      },
+      {
+       "eyebrow": "Dit vi levererar",
+       "heading": "Vi levererar i hela Sverige",
+       "body": "Allt går ut från vårt lager i Örebro. Börja med staden du jobbar i.",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/av-uthyrning/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/av-uthyrning/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "Malmö",
+         "image": "",
+         "link": "/av-uthyrning/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/av-uthyrning/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "Västerås",
+         "image": "",
+         "link": "/av-uthyrning/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "Örebro",
+         "image": "",
+         "link": "/av-uthyrning/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "Linköping",
+         "image": "",
+         "link": "/av-uthyrning/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/av-uthyrning/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/av-uthyrning/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/av-uthyrning/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "Lund",
+         "image": "",
+         "link": "/av-uthyrning/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "Umeå",
+         "image": "",
+         "link": "/av-uthyrning/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "massa-av-uthyrning"
+  },
+  {
+   "type": "landing",
+   "slug": "corporate-event-av-hire",
+   "path": {
+    "en": "/en/corporate-event-av-hire",
+    "sv": "/foretagsevent-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-corporate-events-1024x682.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Corporate events",
+     "h1": "AV hire for corporate events",
+     "intro": "When the room has to look considered and the slides have to be readable from the back, we hire you the screens and stands to do it — dry, tested, and invoiced on account.",
+     "meta_title": "AV Hire for Corporate Events - Renthub.se",
+     "meta_description": "Rent AV equipment for corporate events including town halls, product launches, AGMs, and more.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What we usually send",
+       "heading": "Complete Screen Kits",
+       "body": "Complete screen kits, one line each.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Meeting rooms and breakout spaces.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Town halls and all-hands in a normal room.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "Product launches and keynote moments.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Why companies hire from us",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. An internal event is still a room full of people forming an impression.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Where we deliver",
+       "body": "Everything goes out from our warehouse in Örebro. Start with the city you are working in.",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Vi levererar i hela Sverige",
+     "h1": "AV-uthyrning för företagsevent",
+     "intro": "Stormöten, produktlanseringar, årsstämmor, interna konferenser och kick-offer. När lokalen ska se genomtänkt ut och bilderna ska gå att läsa från bakre raden hyr vi ut skärmarna och stativen som krävs – dry hire, testade och med fakturabetalning.",
+     "meta_title": "AV-uthyrning för företagsevent - Renthub.se",
+     "meta_description": "Dry hire, testade och med fakturabetalning för företagsevent.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Det vi oftast skickar",
+       "heading": "Kompletta skärmpaket, en rad var",
+       "body": "Skärm, golvstativ och måttanpassad stativkjol tillsammans. Enkelt att godkänna internt, och ingenting kommer fram utan den del som håller upp den.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "Mötesrum och grupprum.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "Stormöten och personalmöten i ett vanligt rum.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "Produktlanseringar och keynote-scener.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Därför hyr företag av oss",
+       "heading": "Inköpsvänligt",
+       "body": "Företagskonto, bokning mot inköpsorder, fakturerat på dina villkor. Ingen kortbetalning och inga personliga utlägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Du behåller ditt eget team",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Det kommer fram och ser rätt ut",
+       "body": "Rena skärmar, raka stativ, kjolar som sitter. Ett internt event är fortfarande ett rum fullt av människor som bildar sig en uppfattning.",
+       "items": []
+      },
+      {
+       "eyebrow": "Dit vi levererar",
+       "heading": "Vi levererar i hela Sverige",
+       "body": "Allt går ut från vårt lager i Örebro. Börja med staden du jobbar i.",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "",
+         "image": "",
+         "link": "/av-uthyrning/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "foretagsevent-av-uthyrning"
+  },
+  {
+   "type": "landing",
+   "slug": "product-launch-av-hire",
+   "path": {
+    "en": "/en/product-launch-av-hire",
+    "sv": "/produktlansering-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-product-launches-1024x769.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 3,
+   "content": {
+    "en": {
+     "eyebrow": "Vi levererar i hela Sverige",
+     "h1": "AV hire for product launches",
+     "intro": "The whole evening turns on one moment, and it has to be readable from the back row. We dry hire tested displays, floor stands and mounts to launch teams across Sweden — delivered to the venue on your rig day, collected once the last guest has gone.",
+     "meta_title": "AV Hire for Product Launches - Renthub.se",
+     "meta_description": "AV hire for product launches in Sweden. Tested displays",
+     "included": [
+      "Skärm",
+      "Golvstativ",
+      "Måttanpassad stativkjol"
+     ],
+     "specs": [
+      {
+       "label": "Tillgängliga städer",
+       "value": "Stockholm, Göteborg, Malmö, Uppsala, Västerås, Örebro, Linköping, Norrköping, Helsingborg, Jönköping, Lund, Umeå"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "",
+       "heading": "Screen kits for a room with one job",
+       "body": "What we usually send",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "Sign-in desks, demo tables, and press positions.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "Hands-on areas and the room behind the main room.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "The reveal itself, and the back row that still has to read it.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why launch teams hire from us",
+       "heading": "",
+       "body": "Every screen is powered on and checked before dispatch, and packed with the cables and adapters it actually needs. A launch gets one run-through, and it should not be spent looking for a VESA plate.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Clean screens, straight stands, skirts that fit. Nobody photographs the kit at a launch, but they photograph everything standing next to it.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Dry hire means no bundled technician on the invoice for kit your agency or production partner already knows how to set up. Booked against a PO, invoiced on your terms.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Where we deliver",
+       "items": [
+        {
+         "title": "Stockholm",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/stockholm",
+         "price": ""
+        },
+        {
+         "title": "Göteborg",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/goteborg",
+         "price": ""
+        },
+        {
+         "title": "Malmö",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/malmo",
+         "price": ""
+        },
+        {
+         "title": "Uppsala",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/uppsala",
+         "price": ""
+        },
+        {
+         "title": "Västerås",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/vasteras",
+         "price": ""
+        },
+        {
+         "title": "Örebro",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/orebro",
+         "price": ""
+        },
+        {
+         "title": "Linköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/linkoping",
+         "price": ""
+        },
+        {
+         "title": "Norrköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "Helsingborg",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "Jönköping",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "Lund",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/lund",
+         "price": ""
+        },
+        {
+         "title": "Umeå",
+         "body": "",
+         "image": "",
+         "link": "/en/av-hire/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Vi levererar i hela Sverige",
+     "h1": "AV-uthyrning för produktlanseringar",
+     "intro": "Hela kvällen kretsar kring ett enda ögonblick, och bilden måste gå att läsa från bakre raden. Vi hyr ut testade skärmar, golvstativ och fästen som dry hire till lanseringsteam i hela Sverige – levererat till lokalen på din riggdag, hämtat när sista gästen har gått.",
+     "meta_title": "AV-uthyrning för produktlanseringar - Renthub.se",
+     "meta_description": "Hyr skärmar, golvstativ och fästen för produktlanseringar i Sverige.",
+     "included": [
+      "Skärm",
+      "Golvstativ",
+      "Måttanpassad stativkjol"
+     ],
+     "specs": [
+      {
+       "label": "Tillgängliga städer",
+       "value": "Stockholm, Göteborg, Malmö, Uppsala, Västerås, Örebro, Linköping, Norrköping, Helsingborg, Jönköping, Lund, Umeå"
+      }
+     ],
+     "sections": [
+      {
+       "eyebrow": "Det vi oftast skickar",
+       "heading": "Skärmpaket för en kväll med ett enda syfte",
+       "body": "Skärm, golvstativ och måttanpassad stativkjol tillsammans, en rad var på din order. Ingenting kommer fram utan den del som håller upp den, och ingenting behöver skaffas fram samma dag.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "55″ TV med stativ och kjol - Incheckningsdiskar, demobord och pressplatser.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "65″ TV med stativ och kjol - Demoytor och backstage.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "75″ TV med stativ och kjol - Själva bilden – och bakre raden som ändå ska se den.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Därför hyr lanseringsteam av oss",
+       "heading": "Det fungerar när det kommer fram",
+       "body": "Varje skärm startas upp och kontrolleras före leverans, och packas med de kablar och adaptrar den faktiskt behöver. En lansering får ett genrep, och det ska inte gå åt till att leta efter en VESA-platta.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Det kommer fram och ser rätt ut",
+       "body": "Rena skärmar, raka stativ, kjolar som sitter. Ingen fotograferar utrustningen på en lansering, men alla fotograferar det som står bredvid den.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Du behåller ditt eget team",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er byrå eller produktionspartner redan kan rigga. Bokad mot inköpsorder, fakturerad på dina villkor.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "produktlansering-av-uthyrning"
+  },
+  {
+   "type": "landing",
+   "slug": "roadshow-av-hire",
+   "path": {
+    "en": "/en/roadshow-av-hire",
+    "sv": "/roadshow-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-roadshows-1024x768.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 4,
+   "content": {
+    "en": {
+     "eyebrow": "Delivering across Sweden",
+     "h1": "AV hire for roadshows",
+     "intro": "Five stops in a week means the same kit is struck, boxed and reloaded five times. We dry hire tested displays, floor stands and mounts for the length of the run.",
+     "meta_title": "AV Hire for Roadshows - Renthub.se",
+     "meta_description": "AV hire services tailored for roadshows across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What we usually send",
+       "heading": "Screen Kits",
+       "body": "Screen kits that travel well. Screen, floor stand and fitted skirt together, one line each on your order.",
+       "items": [
+        {
+         "title": "55″ TV with Stand & Skirt",
+         "body": "The stops where the room is a hotel suite.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV with Stand & Skirt",
+         "body": "The size that fits most rooms on most runs.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV with Stand & Skirt",
+         "body": "The flagship stop, where the room is bigger than the rest.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why touring teams hire from us",
+       "heading": "Quality Assurance",
+       "body": "Every screen is powered on and checked before dispatch and packed with the cables it actually needs. A fault you find on stop one is a fault you carry to all five.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Consistency in Equipment",
+       "body": "You book the units for the length of the run, so nothing is swapped for a near-equivalent halfway through and nobody has to relearn the rig at the next load-in.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Durable Equipment",
+       "body": "Stands and skirts go out in the cases they live in, so the third load-in looks like the first. Dry hire, booked against a PO and invoiced on your terms.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Delivering across Sweden",
+     "h1": "AV-uthyrning för roadshows",
+     "intro": "Fem stopp på en vecka betyder att samma utrustning rivs, packas och lastas om fem gånger. Vi hyr ut testade skärmar, golvstativ och fästen som dry hire för hela turnén.",
+     "meta_title": "AV-uthyrning för roadshows - Renthub.se",
+     "meta_description": "AV-uthyrning för roadshows i Sverige. Testade skärmar",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Det vi oftast skickar",
+       "heading": "Skärmpaket som tål att resa",
+       "body": "Skärm, golvstativ och måttanpassad stativkjol tillsammans, en rad var på din order. En rad att boka, och en rad att pricka av mot bilen vid varje stopp.",
+       "items": [
+        {
+         "title": "55″ TV",
+         "body": "55″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV",
+         "body": "65″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV",
+         "body": "75″ TV med stativ och kjol",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "",
+       "heading": "Därför hyr turnerande team av oss",
+       "body": "Varje skärm startas upp och kontrolleras före leverans och packas med de kablar den faktiskt behöver. Ett fel du hittar vid stopp ett är ett fel du släpar med dig till alla fem.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Du bokar enheterna för hela turnén, så att ingenting byts mot något nästan likvärdigt halvvägs och ingen behöver lära om riggen vid nästa inlastning.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Stativ och kjolar levereras i sina egna väskor, så att den tredje inlastningen ser ut som den första. Dry hire, bokad mot inköpsorder och fakturerad på dina villkor.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "Dit vi levererar",
+       "body": "Allt går ut från vårt lager i Örebro. Börja med staden du jobbar i.",
+       "items": [
+        {
+         "title": "",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/av-uthyrning/stockholm",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/av-uthyrning/goteborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Malmö",
+         "image": "",
+         "link": "/av-uthyrning/malmo",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/av-uthyrning/uppsala",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Västerås",
+         "image": "",
+         "link": "/av-uthyrning/vasteras",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Örebro",
+         "image": "",
+         "link": "/av-uthyrning/orebro",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Linköping",
+         "image": "",
+         "link": "/av-uthyrning/linkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/av-uthyrning/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/av-uthyrning/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/av-uthyrning/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Lund",
+         "image": "",
+         "link": "/av-uthyrning/lund",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Umeå",
+         "image": "",
+         "link": "/av-uthyrning/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "roadshow-av-uthyrning"
+  },
+  {
+   "type": "landing",
+   "slug": "agm-av-hire",
+   "path": {
+    "en": "/en/agm-av-hire",
+    "sv": "/arsstamma-av-uthyrning"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-hire-agms-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 5,
+   "content": {
+    "en": {
+     "eyebrow": "What we usually send",
+     "h1": "AV hire for AGMs",
+     "intro": "Most of an annual general meeting is procedure, and then there is one slide that has to be right in front of everyone: the count. We dry hire tested displays, floor stands and mounts to company secretaries and event teams across Sweden — delivered to the venue, collected once the meeting closes.",
+     "meta_title": "AV Hire for AGMs - Renthub.se",
+     "meta_description": "Professional AV hire solutions for annual general meetings (AGMs) across Sweden.",
+     "included": [
+      "Screen kits for a room that has to read the numbers"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Screen kits for a room that has to read the numbers",
+       "heading": "What we usually send",
+       "body": "Screen, floor stand and fitted skirt together, one line each on your order. Easy to sign off internally, and nothing arrives missing the part that holds it up.",
+       "items": [
+        {
+         "title": "Registration, proxy desks and the overflow room.",
+         "body": "55″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/en/kit/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "Side screens, so the back half reads the same slide.",
+         "body": "65″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/en/kit/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "The main floor, where the resolution and the count go up.",
+         "body": "75″ TV with Stand & Skirt",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/en/kit/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Why companies hire from us",
+       "heading": "Procurement-friendly",
+       "body": "Business account, booking against a PO, invoiced on your terms. No card at the counter and no personal expense claim.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "You keep your own crew",
+       "body": "Dry hire means no bundled technician on the invoice for kit your AV partner or in-house team already knows how to set up.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "It turns up looking right",
+       "body": "Clean screens, straight stands, skirts that fit. A statutory meeting is still a room full of people forming an impression.",
+       "items": []
+      },
+      {
+       "eyebrow": "Delivering across Sweden",
+       "heading": "Where we deliver",
+       "body": "Everything goes out from our warehouse in Örebro. Start with the city you are working in.",
+       "items": [
+        {
+         "title": "",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/en/av-hire/stockholm",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/en/av-hire/goteborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Malmö",
+         "image": "",
+         "link": "/en/av-hire/malmo",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/en/av-hire/uppsala",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Västerås",
+         "image": "",
+         "link": "/en/av-hire/vasteras",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Örebro",
+         "image": "",
+         "link": "/en/av-hire/orebro",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Linköping",
+         "image": "",
+         "link": "/en/av-hire/linkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/en/av-hire/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/en/av-hire/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/en/av-hire/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Lund",
+         "image": "",
+         "link": "/en/av-hire/lund",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Umeå",
+         "image": "",
+         "link": "/en/av-hire/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "What we usually send",
+     "h1": "AV-uthyrning för årsstämmor",
+     "intro": "Det mesta på en årsstämma är formalia, och sedan finns det en bild som måste vara rätt framför alla: rösträkningen. Vi hyr ut testade skärmar, golvstativ och fästen som dry hire till bolagssekreterare och eventteam i hela Sverige – levererat till lokalen, hämtat när stämman är avslutad.",
+     "meta_title": "AV-uthyrning för årsstämmor - Renthub.se",
+     "meta_description": "Uthyrning av skärmar, golvstativ och fästen till årsstämmor.",
+     "included": [
+      "Screen kits for a room that has to read the numbers"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Det vi oftast skickar",
+       "heading": "Skärmpaket för en lokal där siffrorna måste gå att läsa",
+       "body": "Skärm, golvstativ och måttanpassad stativkjol tillsammans, en rad var på din order. Enkelt att godkänna internt, och ingenting kommer fram utan den del som håller upp den.",
+       "items": [
+        {
+         "title": "55″ TV med stativ och kjol",
+         "body": "Registrering, fullmaktsdiskar och extrarummet.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/55-tv-kit-768x429.jpg",
+         "link": "/paket/55-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "65″ TV med stativ och kjol",
+         "body": "Sidoskärmar, så att bakre halvan läser samma bild.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/65-tv-kit-768x429.jpg",
+         "link": "/paket/65-tv-with-stand-skirt",
+         "price": ""
+        },
+        {
+         "title": "75″ TV med stativ och kjol",
+         "body": "Huvudsalen, där beslutsförslaget och rösträkningen visas.",
+         "image": "https://avrental.se/wp-content/uploads/2026/08/75-tv-kit-768x429.jpg",
+         "link": "/paket/75-tv-with-stand-skirt",
+         "price": ""
+        }
+       ]
+      },
+      {
+       "eyebrow": "Därför hyr företag av oss",
+       "heading": "",
+       "body": "Inköpsvänligt. Företagskonto, bokning mot inköpsorder, fakturerat på dina villkor. Ingen kortbetalning och inga personliga utlägg.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Dry hire betyder ingen inbakad tekniker på fakturan för utrustning som er AV-partner eller ert eget team redan kan rigga.",
+       "items": []
+      },
+      {
+       "eyebrow": "",
+       "heading": "",
+       "body": "Rena skärmar, raka stativ, kjolar som sitter.",
+       "items": []
+      },
+      {
+       "eyebrow": "Dit vi levererar",
+       "heading": "",
+       "body": "Vi levererar i hela Sverige. Allt går ut från vårt lager i Örebro. Börja med staden du jobbar i.",
+       "items": [
+        {
+         "title": "",
+         "body": "Stockholm",
+         "image": "",
+         "link": "/av-uthyrning/stockholm",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Göteborg",
+         "image": "",
+         "link": "/av-uthyrning/goteborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Malmö",
+         "image": "",
+         "link": "/av-uthyrning/malmo",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Uppsala",
+         "image": "",
+         "link": "/av-uthyrning/uppsala",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Västerås",
+         "image": "",
+         "link": "/av-uthyrning/vasteras",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Örebro",
+         "image": "",
+         "link": "/av-uthyrning/orebro",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Linköping",
+         "image": "",
+         "link": "/av-uthyrning/linkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Norrköping",
+         "image": "",
+         "link": "/av-uthyrning/norrkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Helsingborg",
+         "image": "",
+         "link": "/av-uthyrning/helsingborg",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Jönköping",
+         "image": "",
+         "link": "/av-uthyrning/jonkoping",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Lund",
+         "image": "",
+         "link": "/av-uthyrning/lund",
+         "price": ""
+        },
+        {
+         "title": "",
+         "body": "Umeå",
+         "image": "",
+         "link": "/av-uthyrning/umea",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "arsstamma-av-uthyrning"
+  },
+  {
+   "type": "info",
+   "slug": "about",
+   "path": {
+    "en": "/en/about",
+    "sv": "/om-oss"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-warehouse-racking-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 0,
+   "content": {
+    "en": {
+     "eyebrow": "The AV team behind other people's events.",
+     "h1": "About Renthub",
+     "intro": "Renthub.se is the dry hire arm of Dream Crazy Big AB & EPEAK Studio. We keep a tested stock of professional displays and staging hardware in Örebro and get it to venues across Sweden, so the people running the event can get on with running the event.",
+     "meta_title": "About Us: Swedish AV Dry Hire - Renthub.se",
+     "meta_description": "Renthub provides professional displays and staging hardware for hire across Sweden.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Why we started renting instead of selling.",
+       "heading": "The operation",
+       "body": "Most event teams do not need to own a 75-inch display. They need one, in a specific room, on a specific Tuesday, that definitely works. Owning AV means storing it, testing it, repairing it and watching it lose value between jobs.",
+       "items": []
+      },
+      {
+       "eyebrow": "A warehouse, not a garage.",
+       "heading": "Climate-controlled storage in Örebro",
+       "body": "Everything is barcoded, cased and checked back in against the order it came from. That is how we can tell you what is free on your dates and actually mean it.",
+       "items": []
+      },
+      {
+       "eyebrow": "People who have worked the room.",
+       "heading": "The team",
+       "body": "When you call, you get someone who has stood in a hall at 6am wondering where the VESA plate went. That tends to shorten the conversation.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Om Renthub",
+     "h1": "Renthub",
+     "intro": "Renthub.se är dry hire-grenen av Dream Crazy Big AB & EPEAK Studio. Vi håller ett testat lager av professionella skärmar och scenteknik i Örebro och kör ut det till lokaler i hela Sverige, så att den som driver eventet kan ägna sig åt eventet.",
+     "meta_title": "Om oss - Renthub.se",
+     "meta_description": "Renthub offers professional AV equipment rentals for events across Sweden. Contact us for reliable service and a wide range of equipment.",
+     "included": [],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Möt vårt team",
+       "heading": "Därför hyr vi ut i stället för att sälja.",
+       "body": "De flesta eventteam behöver inte äga en 75-tums skärm. De behöver en, i en viss lokal, en viss tisdag, som garanterat fungerar. Äger du utrustningen ska den också lagras, testas, repareras – och tappa i värde mellan uppdragen.",
+       "items": []
+      },
+      {
+       "eyebrow": "Lagerinformation",
+       "heading": "Ett lager, inte ett garage.",
+       "body": "Allt är streckkodsmärkt, packat i case och incheckat mot den order det kom från. Det är därför vi kan säga vad som är ledigt på dina datum och stå för det.",
+       "items": []
+      },
+      {
+       "eyebrow": "Vårt team",
+       "heading": "Människor som själva har stått i lokalen.",
+       "body": "När du ringer får du tag i någon som själv har stått i en hall klockan sex på morgonen och undrat var VESA-plattan tog vägen. Det brukar korta ner samtalet.",
+       "items": []
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "om-oss"
+  },
+  {
+   "type": "info",
+   "slug": "contact",
+   "path": {
+    "en": "/en/contact",
+    "sv": "/kontakt"
+   },
+   "image": "https://avrental.se/wp-content/uploads/2026/08/av-warehouse-racking-1024x683.jpg",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 1,
+   "content": {
+    "en": {
+     "eyebrow": "Contact",
+     "h1": "Tell us what the room needs",
+     "intro": "Send us your dates, venue and screen count. We come back with a quote and confirmed availability, usually the same working day.",
+     "meta_title": "Contact Renthub.se - AV dry hire in Sweden",
+     "meta_description": "Contact Renthub.se for AV dry hire in Sweden. Send your dates, venue and screen count and get a quote with confirmed availability.",
+     "included": [],
+     "specs": [],
+     "cta": {},
+     "sections": [
+      {
+       "eyebrow": "Get in touch",
+       "heading": "Dream Crazy Big AB",
+       "body": "Nikolaigatan 10, 702 10 Orebro, Sweden. Org.nr 559396-5774.",
+       "items": [
+        {
+         "title": "Email",
+         "body": "contact@avrental.se",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Phone",
+         "body": "073-511 90 05",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Warehouse",
+         "body": "Orebro, nationwide delivery across Sweden",
+         "image": "",
+         "link": "",
+         "price": ""
+        }
+       ]
+      }
+     ]
+    },
+    "sv": {
+     "eyebrow": "Kontakt",
+     "h1": "Berätta vad rummet behöver",
+     "intro": "Skicka datum, lokal och antal skärmar. Du får ett prisförslag med bekräftad tillgänglighet, oftast samma arbetsdag.",
+     "meta_title": "Kontakta Renthub.se - AV-uthyrning i Sverige",
+     "meta_description": "Kontakta Renthub.se för AV-uthyrning i hela Sverige. Skicka datum, lokal och antal skärmar och få ett prisförslag med bekräftad tillgänglighet.",
+     "included": [],
+     "specs": [],
+     "cta": {},
+     "sections": [
+      {
+       "eyebrow": "Kontaktuppgifter",
+       "heading": "Dream Crazy Big AB",
+       "body": "Nikolaigatan 10, 702 10 Örebro. Org.nr 559396-5774.",
+       "items": [
+        {
+         "title": "E-post",
+         "body": "contact@avrental.se",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Telefon",
+         "body": "073-511 90 05",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Lager",
+         "body": "Örebro, leverans i hela Sverige",
+         "image": "",
+         "link": "",
+         "price": ""
+        }
+       ]
+      }
+     ]
+    }
+   },
+   "slug_sv": "kontakt"
+  },
+  {
+   "type": "info",
+   "slug": "partner-program",
+   "path": {
+    "en": "/en/partner-program",
+    "sv": "/partnerprogram"
+   },
+   "image": "",
+   "price_from": 0,
+   "price_unit": "kr / vecka",
+   "order": 2,
+   "content": {
+    "en": {
+     "eyebrow": "Vad ett partnerkonto förändrar",
+     "h1": "Partner accounts for teams who hire often",
+     "intro": "Production companies, agencies and AV integrators who book screens through the year should not be starting from a blank quote every time. A partner account sets your rates once, holds stock for you in the weeks everyone wants it, and gives you a name to call instead of a form to fill in.",
+     "meta_title": "AV Partner Programme - Renthub.se",
+     "meta_description": "Production companies, agencies, and AV integrators can streamline their rental process with partner accounts tailored to their needs.",
+     "included": [
+      "Preferential rates",
+      "Priority in the busy weeks",
+      "A dedicated contact",
+      "Terms that suit your finance function",
+      "An ordering page for your exhibitors",
+      "We set it up at the stand"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "What a partner account changes",
+       "heading": "",
+       "body": "Rates and terms are agreed with you when the account is opened rather than published here, because they follow your volume and the way your year is shaped.",
+       "items": []
+      },
+      {
+       "eyebrow": "How it works",
+       "heading": "",
+       "body": "This process includes three steps without the hassle of phone calls.",
+       "items": [
+        {
+         "title": "Step 1: Apply",
+         "body": "Tell us who you are, what you typically hire and roughly how often. An email is enough to start it off.",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Step 2: We go through it together",
+         "body": "We look at the volume, the kit you actually use and where your bookings land across the year, then come back with rates and terms.",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "Step 3: The account is opened",
+         "body": "Rates, invoice terms and your contact are set. From then on you book against the account rather than asking for a quote.",
+         "image": "",
+         "link": "",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    },
+    "sv": {
+     "eyebrow": "Vad ett partnerkonto förändrar",
+     "h1": "Partnerkonton för team som hyr ofta",
+     "intro": "Produktionsbolag, byråer och AV-integratörer som bokar skärmar året runt ska inte behöva utgå från en tom offert varje gång.",
+     "meta_title": "AV-partnerprogram - Renthub.se",
+     "meta_description": "Partnerkonton för team som hyr skärmar året runt. Ansök för att få fördelar och personligt stöd.",
+     "included": [
+      "Förmånliga priser",
+      "Förtur under de tunga veckorna",
+      "En egen kontaktperson",
+      "Villkor som passar din ekonomiavdelning",
+      "En beställningssida för dina utställare",
+      "Vi monterar på plats i montern"
+     ],
+     "specs": [],
+     "sections": [
+      {
+       "eyebrow": "Så fungerar det",
+       "heading": "",
+       "body": "Tre steg. Ingen jakt på rätt person.",
+       "items": [
+        {
+         "title": "01. Ansök",
+         "body": "Berätta vem du är, vad du brukar hyra och ungefär hur ofta. Ett mejl räcker för att komma igång.",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "02. Vi går igenom det tillsammans",
+         "body": "Vi tittar på volymen, den utrustning du faktiskt använder och hur dina bokningar ligger över året, och återkommer med priser och villkor.",
+         "image": "",
+         "link": "",
+         "price": ""
+        },
+        {
+         "title": "03. Kontot öppnas",
+         "body": "Priser, betalningsvillkor och din kontaktperson är på plats. Från och med då bokar du mot kontot i stället för att be om en offert.",
+         "image": "",
+         "link": "",
+         "price": ""
+        }
+       ]
+      }
+     ],
+     "cta": {}
+    }
+   },
+   "slug_sv": "partnerprogram"
+  }
+ ]
+}
